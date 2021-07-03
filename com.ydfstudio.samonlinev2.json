@@ -57,7 +57,7 @@
 "UNITY_BANNER" : "Banner_Android",
 "UNITY_INTERSTITIAL" : "Interstitial_Android",
 "UNITY_GAME_ID" : "4096625",
-"UNITY_TEST_MODE" : "true",
+"UNITY_TEST_MODE" : "false",
 
 "APPLOVIN_BANNER_ID" : "71f5faf4df08917c-salah",
 "APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d7dc-salah",
