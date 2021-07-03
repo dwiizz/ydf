@@ -1,0 +1,79 @@
+{
+"redirect" : {
+
+"HOMEURL" : "file:///android_asset/music/index.html",
+ 
+ // testing server json yang dipakai
+"Json_popup_Wait" : "Server Ready . . .",
+
+
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+
+
+// mode pengaturan iklan
+// Mode ADMOB       Admob backup Unity Backup Startapp
+// Mode FAN         FAN backup Unity Backup Startapp
+// Mode APPODEAL    Appodeal backup Unity Backup Startapp
+// Mode UNITY       Unity backup Startapp
+// Mode APPLOVIN    Applovin backup Unity Backup Startapp
+ // native hanya bisa admob fan appodeal
+"PENGATURAN_IKLAN_banner" : "ADMOB",
+"PENGATURAN_IKLAN_inter" : "ADMOB",
+"PENGATURAN_IKLAN_native" : "FAN",
+
+"INTER_COUNT" : 11,
+
+"enable_strap" : true,
+"enable_strap_SplahScreen" : false,
+
+"ads_on_exit_dialog" : true,
+
+"Mode_offline_mp3" : false,
+"Enable_Sticky_Notification" : false,
+
+
+"STARAPPID" : "203773357",
+
+"ADMOB_APP_ID" : "id ca-app-pub-6060089235538215~4659970241",
+"ADMOB_BANNER" : "ca-app-pub-6060089235538215/3520502489",
+"ADMOB_INTER" : "ca-app-pub-6060089235538215/9894339140",
+"ADMOB_NATIV" : "ca-app-pub-6060089235538215/9997074015",
+
+"hpk_alien" : "Honda",
+"HPK_ADMOB1" : "Toyota",
+"HPK_ADMOB2" : "Hyundai",
+"HPK_ADMOB3" : "",
+"HPK_ADMOB4" : "",
+"HPK_ADMOB5" : "",
+
+"FAN_BANNER" : "127876862635349_135715718518130",
+"FAN_INTER" : "127876862635349_158655259557509",
+"FAN_NATIVE" : "127876862635349_158655379557497",
+
+
+"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
+
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "4096625",
+"UNITY_TEST_MODE" : "true",
+
+"APPLOVIN_BANNER_ID" : "71f5faf4df08917c-salah",
+"APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d7dc-salah",
+
+"Button_Start" : "MULAI",
+"Button_Share" : "BAGIKAN",
+"Button_Rating" : "BERI NILAI",
+
+
+"Exit_Popup_Dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
+"Rate_Button" : "Rate 5 Bintang",
+"Later_Button" : "Nanti",
+"enable_Share_button" : true,
+"Share_TXT" : "Ayo Download Aplikasi Samsat Online ini. Cek pajak jadi mudah",
+"More_Button" : "Share Via WhatsApp",
+"Url_More_Apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE"
+
+  }
+}
