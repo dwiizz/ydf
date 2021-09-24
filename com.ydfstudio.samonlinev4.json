@@ -67,11 +67,11 @@
 "UNITY_TEST_MODE" : "false",
 
 
-"APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
-"APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d7dc",
+"APPLOVIN_BANNER_ID" : "71f5faf4df089",
+"APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d",
 
-"TAPDAQ_APP_ID" : "6120a5b008fe6c2d735d6a78",
-"TAPDAQ_CLIENT_KEY" : "fb5af849-b396-473b-a139-eecc9c3a4716",
+"TAPDAQ_APP_ID" : "120a5b008fe6c2d735d6a78",
+"TAPDAQ_CLIENT_KEY" : "b5af849-b396-473b-a139-eecc9c3a4716",
 
 "BUTTON_START" : "START",
 "BUTTON_SHARE" : "SHARE TO FRIEND",
@@ -84,7 +84,7 @@ Bantu kami dengan rating bingtang 5 ya
 
 Klik tombol rating 
 ",
-"RATE_BUTTON" : "Rate 5 Stars",
+"RATE_BUTTON" : "Rating 5 Bintang",
 "LATER_BUTTON" : "Later",
 "ENABLE_SHARE_BUTTON" : true,
 "SHARE_TXT" : "
