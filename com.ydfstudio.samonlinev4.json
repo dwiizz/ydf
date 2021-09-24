@@ -26,6 +26,7 @@
 //     Mode UNITY       Unity backup Startapp
 //     Mode APPLOVIN    Applovin backup Unity Backup Startapp
 //     Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
+ 
 "PENGATURAN_IKLAN_BANNER" : "TAPDAQ",
 "PENGATURAN_IKLAN_INTER" : "TAPDAQ",
 "PENGATURAN_IKLAN_NATIVE" : "TAPDAQ",
@@ -83,6 +84,7 @@ Bantu kami dengan rating bingtang 5 ya
 
 Klik tombol rating 
 ",
+ 
 "RATE_BUTTON" : "Nilai 5 Bintang",
 "LATER_BUTTON" : "Nanti",
 "ENABLE_SHARE_BUTTON" : true,
