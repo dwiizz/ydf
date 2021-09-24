@@ -1,9 +1,6 @@
 {
 "redirect" : {
 
-// untuk merubah menjadi mode mp3 - panggil link ini via offline / json - "file:///android_asset/music/playlist.html"
-// pastikan mode offline mp3 true jika merubah ke mode mp3
-// https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
 
 "HOMEURL" : "file:///android_asset/music/index.html",
 
@@ -43,7 +40,7 @@
 
 "STARTAPPID" : "203773357",
 
-"ADMOB_APP_ID" : "id ca-app-pub-6060089235538215~4659970241",
+
 "ADMOB_BANNER" : "ca-app-pub-6060089235538215/3520502489",
 "ADMOB_INTER" : "ca-app-pub-6060089235538215/9894339140",
 "ADMOB_NATIV" : "ca-app-pub-6060089235538215/9997074015",
