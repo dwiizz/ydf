@@ -11,12 +11,12 @@
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
-      "url_webiste":"https://aliendro.id",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
+      "url_webiste":"file:///android_asset/html/index.html",
+      "high_paying_keyword_1": "hyundai",
+      "high_paying_keyword_2": "mitsubishi",
+      "high_paying_keyword_3": "wuling",
+      "high_paying_keyword_4": "honda",
+      "high_paying_keyword_5": "yamaha",
       "status_app": "0",
       "link_redirect": "https://"
     }
