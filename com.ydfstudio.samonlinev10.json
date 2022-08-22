@@ -2,12 +2,12 @@
 
 "Ads": [
     {
-      "select_main_ads": "STARTAPP",
-        //"select_main_ads": "IRON",
+      //"select_main_ads": "STARTAPP",
+       "select_main_ads": "IRON",
       "select_backup_ads":"STARTAPP",
        
-      // "main_ads_banner": "123456",
-        "main_ads_banner": "123456",
+       //"main_ads_banner": "123456",
+        "main_ads_banner": "9820969",
       // "main_ads_intertitial":"123456",
          "main_ads_intertitial":"9820967",
         
@@ -33,7 +33,7 @@
     {
       "title":"PERTANYAAN",
       "image":"https://img2.pngdownload.id/20180421/cqq/kisspng-question-mark-computer-icons-clip-art-question-vector-5adb5dca5a33a4.7312289515243258343695.jpg",
-      "link":"https://api.whatsapp.com/send?phone=6281226055368&text=%20%3A_2022_%_SAMSAT%20ONLINE%20NASIONAL%(19.Aug.Fri.09:31)%C2%AE%0A%0A*%99NAMA*%20%3A%0A*PROVINSI*%20%3A%0A*%99NOMORPLAT*%20%3A%0A%20PERTANYAAN%20%3A"
+      "link":"https://api.whatsapp.com/send?phone=6281226055368&text=%20%3A_2022_%_SAMSAT%20ONLINE%20NASIONAL%(22.Aug.Mon.09:27)%C2%AE%0A%0A*%99NAMA*%20%3A%0A*PROVINSI*%20%3A%0A*%99NOMORPLAT*%20%3A%0A%20PERTANYAAN%20%3A"
     },
        {
       "title":"CEK PAJAK DKI",
