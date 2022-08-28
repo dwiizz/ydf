@@ -1,0 +1,49 @@
+{  
+
+"Ads": [
+    {
+      "select_main_ads": "",
+      // "select_main_ads": "IRON",
+      "select_backup_ads":"STARTAPP",
+       
+      "main_ads_banner": "123456",
+       //  "main_ads_banner": "9820969",
+      // "main_ads_intertitial":"123456",
+         "main_ads_intertitial":"9820967",
+        
+      "backup_ads_banner":"123456",
+       
+      "backup_ads_intertitial":"123456",
+      "interval_intertitial": 9,
+      "initialize_sdk":"203773357",
+      //  "initialize_sdk":"15cbdf00d",
+      "initialize_sdk_backup_ads":"203773357",
+      "url_webiste":"file:///android_asset/2022/index.html",
+      "high_paying_keyword_1": "hyundai",
+      "high_paying_keyword_2": "mitsubishi",
+      "high_paying_keyword_3": "wuling",
+      "high_paying_keyword_4": "honda",
+      "high_paying_keyword_5": "yamaha",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+    "More":
+  [
+    {
+      "title":"PERTANYAAN",
+      "image":"https://img2.pngdownload.id/20180421/cqq/kisspng-question-mark-computer-icons-clip-art-question-vector-5adb5dca5a33a4.7312289515243258343695.jpg",
+      "link":"https://api.whatsapp.com/send?phone=6281226055368&text=%20%3A_2022_%_SAMSAT%20ONLINE%20NASIONAL%(28.Aug.Sun.09:13)%C2%AE%0A%0A*%99NAMA*%20%3A%0A*PROVINSI*%20%3A%0A*%99NOMORPLAT*%20%3A%0A%20PERTANYAAN%20%3A"
+    },
+       {
+      "title":"CEK PAJAK DKI",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Coat_of_arms_of_Jakarta.svg/1200px-Coat_of_arms_of_Jakarta.svg.png",
+      "link":"https://samsat-pkb2.jakarta.go.id/"
+    },
+      {
+      "title":"CEK PAJAK JABAR",
+      "image":"https://jabarprov.go.id/logo.png",
+      "link":"https://bapenda.jabarprov.go.id/infopkb/"
+    } 
+  ]
+}
