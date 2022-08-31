@@ -14,7 +14,7 @@
       "backup_ads_banner":"9820969",
        
       "backup_ads_intertitial":"9820967",
-      "interval_intertitial": 9,
+      "interval_intertitial": 13,
       "initialize_sdk":"",
       //  "initialize_sdk":"15cbdf00d",
       "initialize_sdk_backup_ads":"15cbdf00d",
