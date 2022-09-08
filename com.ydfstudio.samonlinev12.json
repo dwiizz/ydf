@@ -26,9 +26,9 @@
 //     Mode UNITY       Unity backup Startapp
 //     Mode APPLOVIN    Applovin backup Unity Backup Startapp
 //     Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
-"PENGATURAN_IKLAN_BANNER" : "APPLOVIN",
+"PENGATURAN_IKLAN_BANNER" : "UNITY",
 "PENGATURAN_IKLAN_INTER" : "APPLOVIN",
-"PENGATURAN_IKLAN_NATIVE" : "APPLOVIN",
+"PENGATURAN_IKLAN_NATIVE" : "UNITY",
 
 "INTER_COUNT" : "11",
 
@@ -74,7 +74,7 @@
 "EXIT_POPUP_DIALOG" : "
 Agar Kami lebih semangat mengembangkan Aplikasi ini
 
-Bantu kami dengan rating bingtang 5 ya 
+Bantu kami dengan rating bintang 5 ya 
 
 Klik tombol rating 
 ",
@@ -82,10 +82,8 @@ Klik tombol rating
 "LATER_BUTTON" : "Later",
 "ENABLE_SHARE_BUTTON" : true,
 "SHARE_TXT" : "
-this app is awesome 
-
-you need try to donwload this app
-i.ve download and so much happy
+Ayo Download Aplikasi Ini.
+ Cek Pajak Kendaraan jadi Mudah
 
 ",
 
