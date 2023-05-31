@@ -22,7 +22,7 @@
     {
       "name": "Home",
       "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/solodroid.png",
+      "icon": "https://play-lh.googleusercontent.com/8fn6CkLA1VT7N_dszIVhNAzEVPeDqfpakyDgqKsQr9H2Em99s5clCPQyce5e-nA5bosO=w240-h480",
       "url": "file:///android_asset/2023/index1.html",
       "url_dark": "file:///android_asset/2023/index1.html",
       "toolbar": true
@@ -32,39 +32,32 @@
       "type": "url",
       "icon": "https://idalamat.com/images/addresses/6218641-samsat-garut-jawa-barat.jpg",
       "url": "file:///android_asset/2023/pajak.html",
-      "url_dark": "",
+      "url_dark": "file:///android_asset/2023/pajak.html",
       "toolbar": true
     },
-	  {
-      "name": "Cek Pajak DKI Jakarta",
-      "type": "url",
-      "icon": "https://idalamat.com/images/addresses/6218641-samsat-garut-jawa-barat.jpg",
-      "url": "https://samsat-pkb2.jakarta.go.id/?target=external",
-      "url_dark": "",
-      "toolbar": true
-    },
+	 
 	  {
       "name": "Kode Bayar E-samsat",
       "type": "url",
-      "icon": "https://img.lovepik.com/free-png/20211214/lovepik-female-white-collar-showing-mobile-phone-png-image_401612364_wh860.png",
+      "icon": "https://bapendasulsel.web.id/v1/wp-content/uploads/2021/11/esamsat.png",
       "url": "file:///android_asset/2023/esamsat.html",
-      "url_dark": "",
+      "url_dark": "file:///android_asset/2023/esamsat.html",
       "toolbar": true
     },
 	   {
       "name": "Cek BPKB dan Registrasi Kendaraan",
       "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/aliendroid.png",
+      "icon": "https://tabessby.jatim.polri.go.id/images/service/c94f038f1ddef8d9191d77b3935cbfe4.png",
       "url": "file:///android_asset/2023/menuBpkb.html",
-      "url_dark": "",
+      "url_dark": "file:///android_asset/2023/menuBpkb.html",
       "toolbar": true
     },
     {
       "name": "Bertanya Melalui WA",
       "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/easyapk.png",
+      "icon": "https://i.pinimg.com/550x/93/b2/65/93b265c795140247db600ac92e58746a.jpg",
       "url": "file:///android_asset/2023/web/pertanyaan.html",
-      "url_dark": "",
+      "url_dark": "file:///android_asset/2023/web/pertanyaan.html",
       "toolbar": true
     },  
     {
