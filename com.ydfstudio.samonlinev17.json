@@ -30,7 +30,7 @@
     {
       "name": "Cek Pajak",
       "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/aliendroid.png",
+      "icon": "https://idalamat.com/images/addresses/6218641-samsat-garut-jawa-barat.jpg",
       "url": "file:///android_asset/2023/pajak.html",
       "url_dark": "",
       "toolbar": true
@@ -38,7 +38,7 @@
 	  {
       "name": "Cek Pajak DKI Jakarta",
       "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/aliendroid.png",
+      "icon": "https://idalamat.com/images/addresses/6218641-samsat-garut-jawa-barat.jpg",
       "url": "https://samsat-pkb2.jakarta.go.id/?target=external",
       "url_dark": "",
       "toolbar": true
@@ -46,7 +46,7 @@
 	  {
       "name": "Kode Bayar E-samsat",
       "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/aliendroid.png",
+      "icon": "https://img.lovepik.com/free-png/20211214/lovepik-female-white-collar-showing-mobile-phone-png-image_401612364_wh860.png",
       "url": "file:///android_asset/2023/esamsat.html",
       "url_dark": "",
       "toolbar": true
