@@ -25,7 +25,7 @@
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/solodroid.png",
       "url": "file:///android_asset/2023/index1.html",
       "url_dark": "file:///android_asset/2023/index1.html",
-      "toolbar": false
+      "toolbar": true
     },
     {
       "name": "Cek Pajak",
