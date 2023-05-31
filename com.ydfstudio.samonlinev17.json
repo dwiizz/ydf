@@ -28,18 +28,18 @@
       "toolbar": true
     },
     {
-      "name": "Aliendroid",
+      "name": "Cek Pajak",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/aliendroid.png",
-      "url": "https://aliendro.id/profile/solodroid",
+      "url": "file:///android_asset/2023/pajak.html",
       "url_dark": "",
       "toolbar": true
     },
     {
-      "name": "EasyApk",
+      "name": "Bertanya Melalui WA",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/easyapk.png",
-      "url": "https://easyapk.id",
+      "url": "file:///android_asset/2023/web/pertanyaan.html",
       "url_dark": "",
       "toolbar": true
     },  
