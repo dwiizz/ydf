@@ -39,7 +39,7 @@
       "name": "Cek Pajak DKI Jakarta",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/aliendroid.png",
-      "url": "https://samsat-pkb2.jakarta.go.id",
+      "url": "https://samsat-pkb2.jakarta.go.id/?target=external",
       "url_dark": "",
       "toolbar": true
     },
