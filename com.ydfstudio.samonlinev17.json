@@ -23,8 +23,8 @@
       "name": "Home",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/solodroid.png",
-      "url": "https://htmlpreview.github.io/?raw.githubusercontent.com/solodroidev/content/uploads/html/webview/light/home.html",
-      "url_dark": "https://htmlpreview.github.io/?raw.githubusercontent.com/solodroidev/content/uploads/html/webview/dark/home.html",
+      "url": "file:///android_asset/2023/index1.html",
+      "url_dark": "file:///android_asset/2023/index1.html",
       "toolbar": true
     },
     {
