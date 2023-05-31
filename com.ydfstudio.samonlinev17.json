@@ -25,13 +25,29 @@
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/solodroid.png",
       "url": "file:///android_asset/2023/index1.html",
       "url_dark": "file:///android_asset/2023/index1.html",
-      "toolbar": true
+      "toolbar": false
     },
     {
       "name": "Cek Pajak",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/aliendroid.png",
       "url": "file:///android_asset/2023/pajak.html",
+      "url_dark": "",
+      "toolbar": true
+    },
+	  {
+      "name": "Kode Bayar E-samsat",
+      "type": "url",
+      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/aliendroid.png",
+      "url": "file:///android_asset/2023/esamsat.html",
+      "url_dark": "",
+      "toolbar": true
+    },
+	   {
+      "name": "Cek BPKB dan Registrasi Kendaraan",
+      "type": "url",
+      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/aliendroid.png",
+      "url": "file:///android_asset/2023/menuBpkb.html",
       "url_dark": "",
       "toolbar": true
     },
