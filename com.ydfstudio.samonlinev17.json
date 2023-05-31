@@ -52,6 +52,14 @@
       "url_dark": "file:///android_asset/2023/menuBpkb.html",
       "toolbar": true
     },
+	   {
+      "name": "Dengarkan Lagu",
+      "type": "url",
+      "icon": "https://cdn.pixabay.com/photo/2017/05/17/15/20/kids-2321161_960_720.png",
+      "url": "file:///android_asset/2023/playlist.html",
+      "url_dark": "file:///android_asset/2023/playlist.html",
+      "toolbar": true
+    },
     {
       "name": "Bertanya Melalui WA",
       "type": "url",
