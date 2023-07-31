@@ -53,6 +53,14 @@
       "toolbar": true
     },
 	   {
+      "name": "Cek Pajak DI Yogyakarta",
+      "type": "url",
+      "icon": "https://samsatsleman.jogjaprov.go.id/images/headers/Untitled_design__5_-removebg-preview.png",
+      "url": "https://samsatsleman.jogjaprov.go.id/cek/pajak",
+      "url_dark": "https://samsatsleman.jogjaprov.go.id/cek/pajak",
+      "toolbar": true
+    },
+	   {
       "name": "Dengarkan Lagu",
       "type": "url",
       "icon": "https://cdn.pixabay.com/photo/2017/05/17/15/20/kids-2321161_960_720.png",
