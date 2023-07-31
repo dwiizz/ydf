@@ -61,6 +61,30 @@
       "toolbar": true
     },
 	   {
+      "name": "Cek Pajak DKI Jakarta",
+      "type": "url",
+      "icon": "https://www.jakarta.go.id/images/logo-jakgo-rev.png",
+      "url": "https://samsat-pkb2.jakarta.go.id/?target=external",
+      "url_dark": "https://samsat-pkb2.jakarta.go.id/?target=external",
+      "toolbar": true
+    },
+	   {
+      "name": "Cek Pajak Kalimantan Timur",
+      "type": "url",
+      "icon": "http://simpator.kaltimprov.go.id/images/logo1.png",
+      "url": "http://simpator.kaltimprov.go.id/cari.php",
+      "url_dark": "http://simpator.kaltimprov.go.id/cari.php",
+      "toolbar": true
+    },
+	   {
+      "name": "Cek Pajak Maluku Utara",
+      "type": "url",
+      "icon": "http://simpator.kaltimprov.go.id/images/logo1.png",
+      "url": "https://esamsat.malukuprov.go.id/kiosk/kiosk.aspx",
+      "url_dark": "https://esamsat.malukuprov.go.id/kiosk/kiosk.aspx",
+      "toolbar": true
+    },
+	   {
       "name": "Dengarkan Lagu",
       "type": "url",
       "icon": "https://cdn.pixabay.com/photo/2017/05/17/15/20/kids-2321161_960_720.png",
