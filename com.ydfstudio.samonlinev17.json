@@ -60,14 +60,7 @@
       "url_dark": "https://samsatsleman.jogjaprov.go.id/cek/pajak",
       "toolbar": true
     },
-	   {
-      "name": "Cek Pajak DKI Jakarta",
-      "type": "url",
-      "icon": "https://www.jakarta.go.id/images/logo-jakgo-rev.png",
-      "url": "https://samsat-pkb2.jakarta.go.id/?target=external",
-      "url_dark": "https://samsat-pkb2.jakarta.go.id/?target=external",
-      "toolbar": true
-    },
+	  
 	   {
       "name": "Cek Pajak Kalimantan Timur",
       "type": "url",
