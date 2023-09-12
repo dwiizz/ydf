@@ -105,8 +105,8 @@
   "ads": [
     {
       "ad_status": 1,
-      "main_ad": "applovin_max",
-      "backup_ad": "admob",
+      "main_ad": "admob",
+      "backup_ad": "applovin-max",
       "admob_banner_unit_id": "ca-app-pub-6060089235538215/3274518146",
       "admob_interstitial_unit_id": "ca-app-pub-6060089235538215/6398855415",
       "admob_native_unit_id": "ca-app-pub-6060089235538215/5709109790",
@@ -137,7 +137,7 @@
       "show_interstitial_ad": true,
 	  "show_native_ad_on_drawer_menu": true,
 	  "show_native_ad_on_exit_dialog": true,
-      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_start": false,
       "show_open_ad_on_app_resume": true
     }
   ],
@@ -147,55 +147,7 @@
    "id": 18,
    "title": "Dangdut Viral Terbaru",
    "image": "https://play-lh.googleusercontent.com/6O74VpJ19ho22wCeXhofek-ARBGzinlo9bT93X9QIFqrlWnX1T4YvLqSebSZioQpMc4=w240-h480",
-   "url": "https://play.google.com/store/apps/details?id=com.sitilight.adella"
- },
- {
-   "id": 1,
-   "title": "Cewe Sexy Wallpaper 4K",
-   "image": "https://play-lh.googleusercontent.com/LA_KXSg7PO3e-lkwmZtt-fxgzUxctC6BMenEkRFSuN3qfLwkUSRAH7T4tSfkkRu6mg=w240-h480",
-   "url": "https://play.google.com/store/apps/details?id=com.gembul.cutegirlwallpaper"
- },
- {
-   "id": 4,
-   "title": "Wednesday Adams Wallpapers",
-   "image": "https://play-lh.googleusercontent.com/viB7yl4Gx8V1A1rKikdRLAPJiA03w1H-P6uA0I6DesxA4kMY-CS-70ShAULjWk9maME=w240-h480",
-   "url": "https://play.google.com/store/apps/details?id=com.gembul.wednesdaywallpaper"
- },
- {
-   "id": 9,
-   "title": "Cek Pajak Kendaraan Nasional",
-   "image": "https://play-lh.googleusercontent.com/NYXWpNBLnDDvzDyvnO1zWlQy5EJI12TV-kO1jOXoFfSbco6bcYOdD2Q2DK2KPjmzKw=w240-h480",
-   "url": "https://play.google.com/store/apps/details?id=com.sitilight.samonline"
- },
- {
-   "id": 13,
-   "title": "Gacha GL Free",
-   "image": "https://play-lh.googleusercontent.com/Ru_Ca70wgdxOLSsvh3JEAMjm1OmgSWsbjMu0jtjKNvgFzTTIfnY6-6KHZrKrwR8m_Hbr=w240-h480",
-   "url": "https://play.google.com/store/apps/details?id=com.sitilight.gacha"
- },
- {
-   "id": 16,
-   "title": "Sholawat Ning Umi Laila",
-   "image": "https://play-lh.googleusercontent.com/U9Mwom_pEjYvhPULdlpkxNS1dPnTMQVQPVAvwQdiw6tg9pOaC5j_cMIxxUcj0tX3JUo=w240-h480",
-   "url": "https://play.google.com/store/apps/details?id=com.sitilight.ning_umi_laila"
- },
- {
-   "id": 17,
-   "title": "Video Call bareng Ning Umi Cantik",
-   "image": "https://play-lh.googleusercontent.com/bqWD7MsvGNqF7lY3hNL8BNeSeJYMRezbl9t4TaZnP7yYvyMIK4U1lZUv3K_0xiKd1glL=w240-h480",
-   "url": "https://play.google.com/store/apps/details?id=com.sitilight.fake.ning_umi_laila"
- },
- {
-   "id": 11,
-   "title": "Twibbon Maker : Photo Frame",
-   "image": "https://play-lh.googleusercontent.com/oUzs2ANz8ubhgDlOecDuxAmrpjgCiXf9ZnM2i9xhVRKdim7_FACHa3vIowyojaqKgw=w240-h480",
-   "url": "https://play.google.com/store/apps/details?id=com.gembul.twibbonize"
- },
- {
-   "id": 13,
-   "title": "Cek BPKB Online",
-   "image": "https://play-lh.googleusercontent.com/ucZiZNiTtjTkNRG8PjoapeJEzEMeJuRJIVAKzN5bO_51GB8ngecNYhRQuLAzIueQSQ=w240-h480",
-   "url": "https://play.google.com/store/apps/details?id=com.gembul.cekbpkbonline"
+   "url": ""
  }
 ]
 }
