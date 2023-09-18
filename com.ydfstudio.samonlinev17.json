@@ -106,7 +106,7 @@
     {
       "ad_status": 1,
       "main_ad": "admob",
-      "backup_ad": "unity",
+      "backup_ad": "applovin_max",
       "admob_banner_unit_id": "ca-app-pub-6060089235538215/3274518146",
       "admob_interstitial_unit_id": "ca-app-pub-6060089235538215/6398855415",
       "admob_native_unit_id": "ca-app-pub-6060089235538215/5709109790",
