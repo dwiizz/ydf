@@ -52,6 +52,14 @@
       "url_dark": "file:///android_asset/2023/menuBpkb.html",
       "toolbar": true
     },
+	  {
+      "name": "Cek Pajak Sulawesi Utara",
+      "type": "url",
+      "icon": "https://bapenda.sulutprov.go.id/imgwebx/parallax-slider/images/head2.png",
+      "url": "https://bapenda.sulutprov.go.id/index.php?page=cekpajak",
+      "url_dark": "https://bapenda.sulutprov.go.id/index.php?page=cekpajak",
+      "toolbar": true
+    },
 	   {
       "name": "Cek Pajak DI Yogyakarta",
       "type": "url",
