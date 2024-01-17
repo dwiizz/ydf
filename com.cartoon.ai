@@ -26,21 +26,21 @@
     {
       "book_id": 1,
       "book_name": "Bahasa Indonesia",
-      "url_book": "pdf/indonesia.pdf",
+      "url_book": "https://github.com/dwiizz/ydf/files/13964159/pasangan.pdf",
       "url_cover_book": "file:///android_asset/image/indonesia.jpg",
       "short_description": "Puisi adalah salah satu bentuk karya sastra yang banyak disukai karena disajikan dalam bahasa yang indah dan sifatnya yang imajinatif. Bahkan puisi juga dianggap sebagai rangkaian kata-kata yang menggambarkan perasaan penulis (penyair)."
     },
     {
       "book_id": 2,
       "book_name": "Kimia",
-      "url_book": "https://aliendro.id/uploads/demo/multypdf/kimia.pdf",
+      "url_book": "https://github.com/dwiizz/ydf/files/13964162/kartun.pdf",
       "url_cover_book": "https://aliendro.id/uploads/demo/multypdf/kimia.webp",
       "short_description": "Materi pada modul ini akan memberikan pengetahuan pada kalian tentang\nperkembangan model atom dari masa ke masa mulai dari teori atom kuno yang\ndikemukakan oleh Democritus, teori atom Dalton, J.J Thomson, Rutherford,Niels Bohr"
     },
     {
       "book_id": 3,
       "book_name": "Matematika Umum",
-      "url_book": "pdf/matematika.pdf",
+      "url_book": "https://github.com/dwiizz/ydf/files/13964164/kumpulanPrompt.pdf",
       "url_cover_book": "file:///android_asset/image/matematika.jpg",
       "short_description": "Pada modul kali ini kita akan mempelajari nilai trigonometri pada berbagai kuadran dan nilai-nilai sinus, cosinus dan tangen yang saling bersesuaian pada semua kuadran."
     },
