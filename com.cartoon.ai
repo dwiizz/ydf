@@ -73,5 +73,156 @@
       "short_description": "Modul ini membahas tentang analisis ketrampilan 2 gaya renang untuk penyelamatan di air yaitu gaya dada dan gaya bebas, dimana kedua gaya ini lebih umum digunakan dalam upaya penyelamatan diri."
     }
   ],
-  "Chapter": 
+  "Chapter": [
+    {
+      "book_id": 1,
+      "chapter_name": "Pendahuluan",
+      "page_number": "6"
+    },
+    {
+      "book_id": 1,
+      "chapter_name": "Kegiatan Pembelajaran 1 : Menentukan Suasan, Tema dan Makna dalam Puisi",
+      "page_number": "8"
+    },
+    {
+      "book_id": 1,
+      "chapter_name": "Kegiatan Pembelajaran 2 : Membaca Puisi dengan Memperhatikan Vokal, Ekspresi, Dan Intonasi Yang Baik",
+      "page_number": "15"
+    },
+    {
+      "book_id": 1,
+      "chapter_name": "Daftar Pustaka",
+      "page_number": "28"
+    },
+    {
+      "book_id": 2,
+      "chapter_name": "Pendahuluan",
+      "page_number": "6"
+    },
+    {
+      "book_id": 2,
+      "chapter_name": "Kegiatan Pembelajaran 1 : Bentuk Molekul Berdasarkan Teori VSEPR Dan Teori Domain Elektron",
+      "page_number": "8"
+    },
+    {
+      "book_id": 2,
+      "chapter_name": "Kegiatan Pembelajaran 2 : Menggambarkan Bentuk Molekul",
+      "page_number": "18"
+    },
+    {
+      "book_id": 2,
+      "chapter_name": "Daftar Pustaka",
+      "page_number": "30"
+    },
+    {
+      "book_id": 3,
+      "chapter_name": "Pendahuluan",
+      "page_number": "6"
+    },
+    {
+      "book_id": 3,
+      "chapter_name": "Kegiatan Pembelajaran 1 : Konsep Nilai Mutlak",
+      "page_number": "8"
+    },
+    {
+      "book_id": 3,
+      "chapter_name": "Kegiatan Pembelajaran 2 : Persamaan Nilai Mutlak Liner Satu Variabel",
+      "page_number": "14"
+    },
+    {
+      "book_id": 3,
+      "chapter_name": "Kegiatan Pembelajaran 3 : Pertidaksamaan Nilai Mutlak Linear Satu Variabel",
+      "page_number": "23"
+    },
+    {
+      "book_id": 3,
+      "chapter_name": "Daftar Pustaka",
+      "page_number": "33"
+    },
+    {
+      "book_id": 4,
+      "chapter_name": "Pendahuluan",
+      "page_number": "6"
+    },
+    {
+      "book_id": 4,
+      "chapter_name": "Kegiatan Pembelajaran 1 ",
+      "page_number": "8"
+    },
+    {
+      "book_id": 4,
+      "chapter_name": "Kegiatan Pembelajaran 2",
+      "page_number": "14"
+    },
+    {
+      "book_id": 4,
+      "chapter_name": "Daftar Pustaka",
+      "page_number": "24"
+    },
+    {
+      "book_id": 5,
+      "chapter_name": "Pendahuluan",
+      "page_number": "6"
+    },
+    {
+      "book_id": 5,
+      "chapter_name": "Kegiatan Pembelajaran 1 : Teori Relativitas Einstein",
+      "page_number": "8"
+    },
+    {
+      "book_id": 5,
+      "chapter_name": "Kegiatan Pembelajaran 2 : Dampak Teori Relativitas Einstein",
+      "page_number": "17"
+    },
+    {
+      "book_id": 5,
+      "chapter_name": "Daftar Pustaka",
+      "page_number": "30"
+    },
+    {
+      "book_id": 6,
+      "chapter_name": "Pendahuluan",
+      "page_number": "6"
+    },
+    {
+      "book_id": 6,
+      "chapter_name": "Kegiatan Pembelajaran 1 : Karakteristik Lapisan Atmosfer Vumi Serta Unsur-Unsur Cuasa Dan Iklam",
+      "page_number": "9"
+    },
+    {
+      "book_id": 6,
+      "chapter_name": "Kegiatan Pembelajaran 2 : Kalsifikasi Iklim, Pola Iklim Global, Dan Perubahan Iklim Global Terhadap Kehidpuan",
+      "page_number": "28"
+    },
+    {
+      "book_id": 6,
+      "chapter_name": "Kegiatan Pembelajaran 3 : Karakteristik Iklim Indonesia Dan Lembaga-Lembaga Yang Menyediakan Dan Memanfaatkan Data Cuaca Dan Iklim Indonesia",
+      "page_number": "39"
+    },
+    {
+      "book_id": 6,
+      "chapter_name": "Daftar Pustaka",
+      "page_number": "51"
+    },
+    {
+      "book_id": 7,
+      "chapter_name": "Pendahuluan",
+      "page_number": "6"
+    },
+    {
+      "book_id": 7,
+      "chapter_name": "Kegiatan Pembelajaran 1",
+      "page_number": "9"
+    },
+    {
+      "book_id": 7,
+      "chapter_name": "Kegiatan Pembelajaran 2",
+      "page_number": "16"
+    },
+    {
+      "book_id": 7,
+      "chapter_name": "Daftar Pustaka",
+      "page_number": "27"
+    }
+  ]
 }
