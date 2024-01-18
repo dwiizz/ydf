@@ -27,7 +27,7 @@
     {
       "book_id": 1,
       "book_name": "Bahasa Indonesia Kelas X",
-      "url_book": "pdf/indonesia.pdf",
+      "url_book": "",
       "url_cover_book": "file:///android_asset/image/indonesia.jpg",
       "short_description": "Puisi adalah salah satu bentuk karya sastra yang banyak disukai karena disajikan dalam bahasa yang indah dan sifatnya yang imajinatif. Bahkan puisi juga dianggap sebagai rangkaian kata-kata yang menggambarkan perasaan penulis (penyair)."
     },
@@ -41,7 +41,7 @@
     {
       "book_id": 3,
       "book_name": "Matematika Umum Kelas X",
-      "url_book": "pdf/matematika.pdf",
+      "url_book": "",
       "url_cover_book": "file:///android_asset/image/matematika.jpg",
       "short_description": "Pada modul kali ini kita akan mempelajari nilai trigonometri pada berbagai kuadran dan nilai-nilai sinus, cosinus dan tangen yang saling bersesuaian pada semua kuadran."
     },
@@ -62,14 +62,14 @@
     {
       "book_id": 6,
       "book_name": "Geografi Kelas X",
-      "url_book": "pdf/geografi.pdf",
+      "url_book": "",
       "url_cover_book": "file:///android_asset/image/geografi.jpg",
       "short_description": "Ketahanan Pangan, Industri, dan Energi meliputi: 1) Pengertian ketahanan pangan, bahan industri, serta energi baru dan terbarukan, 2) Potensi dan persebaran sumber daya pertanian, perkebunan, perikanan, dan peternakan untuk ketahanan pangan nasional."
     },
     {
       "book_id": 7,
       "book_name": "PJOK Kelas XI",
-      "url_book": "pdf/pjok.pdf",
+      "url_book": "",
       "url_cover_book": "file:///android_asset/image/pjok.jpg",
       "short_description": "Modul ini membahas tentang analisis ketrampilan 2 gaya renang untuk penyelamatan di air yaitu gaya dada dan gaya bebas, dimana kedua gaya ini lebih umum digunakan dalam upaya penyelamatan diri."
     }
