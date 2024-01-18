@@ -25,49 +25,49 @@
   "Book": [
     {
       "book_id": 1,
-      "book_name": "Bahasa Indonesia",
+      "book_name": "Bahasa Indonesia Kelas X",
       "url_book": "pdf/indonesia.pdf",
       "url_cover_book": "file:///android_asset/image/indonesia.jpg",
       "short_description": "Puisi adalah salah satu bentuk karya sastra yang banyak disukai karena disajikan dalam bahasa yang indah dan sifatnya yang imajinatif. Bahkan puisi juga dianggap sebagai rangkaian kata-kata yang menggambarkan perasaan penulis (penyair)."
     },
     {
       "book_id": 2,
-      "book_name": "Kimia",
+      "book_name": "Kimia Kelas X",
       "url_book": "https://aliendro.id/uploads/demo/multypdf/kimia.pdf",
       "url_cover_book": "https://aliendro.id/uploads/demo/multypdf/kimia.webp",
       "short_description": "Materi pada modul ini akan memberikan pengetahuan pada kalian tentang\nperkembangan model atom dari masa ke masa mulai dari teori atom kuno yang\ndikemukakan oleh Democritus, teori atom Dalton, J.J Thomson, Rutherford,Niels Bohr"
     },
     {
       "book_id": 3,
-      "book_name": "Matematika Umum",
+      "book_name": "Matematika Umum Kelas X",
       "url_book": "pdf/matematika.pdf",
       "url_cover_book": "file:///android_asset/image/matematika.jpg",
       "short_description": "Pada modul kali ini kita akan mempelajari nilai trigonometri pada berbagai kuadran dan nilai-nilai sinus, cosinus dan tangen yang saling bersesuaian pada semua kuadran."
     },
     {
       "book_id": 4,
-      "book_name": "Bahasa Inggris",
+      "book_name": "Bahasa Inggris Kelas XI",
       "url_book": "https://aliendro.id/uploads/demo/multypdf/inggris.pdf",
       "url_cover_book": "https://aliendro.id/uploads/demo/multypdf/inggris.webp",
-      "short_description": "modul ini akan memfasilitasi Anda untuk mampu berkomunikasi berkaitan memberi dan meminta informasi terkait pengandaian diikuti oleh perintah/saran, sesuai dengan konteks penggunaannya."
+      "short_description": "Modul ini akan memfasilitasi Anda untuk mampu berkomunikasi berkaitan memberi dan meminta informasi terkait pengandaian diikuti oleh perintah/saran, sesuai dengan konteks penggunaannya."
     },
     {
       "book_id": 5,
-      "book_name": "Fisika",
+      "book_name": "Fisika Kelas XII",
       "url_book": "https://aliendro.id/uploads/demo/multypdf/fisika.pdf",
       "url_cover_book": "https://aliendro.id/uploads/demo/multypdf/fisika.webp",
       "short_description": "Untuk dapat memahami materi Modul ini dengan baik, Anda hendaknya mengerjakan latihan dan evaluasi kemudian mencocokkan hasilnya dengan kunci jawaban yang tersedia di bagian belakang modul ini. "
     },
     {
       "book_id": 6,
-      "book_name": "Geografi",
+      "book_name": "Geografi Kelas X",
       "url_book": "pdf/geografi.pdf",
       "url_cover_book": "file:///android_asset/image/geografi.jpg",
       "short_description": "Ketahanan Pangan, Industri, dan Energi meliputi: 1) Pengertian ketahanan pangan, bahan industri, serta energi baru dan terbarukan, 2) Potensi dan persebaran sumber daya pertanian, perkebunan, perikanan, dan peternakan untuk ketahanan pangan nasional."
     },
     {
       "book_id": 7,
-      "book_name": "PJOK",
+      "book_name": "PJOK Kelas XI",
       "url_book": "pdf/pjok.pdf",
       "url_cover_book": "file:///android_asset/image/pjok.jpg",
       "short_description": "Modul ini membahas tentang analisis ketrampilan 2 gaya renang untuk penyelamatan di air yaitu gaya dada dan gaya bebas, dimana kedua gaya ini lebih umum digunakan dalam upaya penyelamatan diri."
