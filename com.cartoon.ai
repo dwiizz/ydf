@@ -9,11 +9,11 @@
       "navigation_icon_solid_color": false,
       "geolocation": false,
       "webview_cache": true,
-      "open_link_in_external_browser": false,
+      "open_link_in_external_browser": true,
       "enable_rtl_mode": false,
       "enable_exit_dialog": true,
       "enable_vpn_access": false,
-      "enable_dark_mode_as_default_theme": false,
+      "enable_dark_mode_as_default_theme": true,
       "enable_app_protection": false,
       "base64_license_key": ""
     }
@@ -27,22 +27,7 @@
       "url_dark": "file:///android_asset/kartun/index.html",
       "toolbar": true
     },
-    {
-      "name": "Aliendroid",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/aliendroid.png",
-      "url": "https://aliendro.id/profile/solodroid",
-      "url_dark": "",
-      "toolbar": true
-    },
-    {
-      "name": "EasyApk",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/easyapk.png",
-      "url": "https://easyapk.id",
-      "url_dark": "",
-      "toolbar": true
-    },
+    
     {
       "name": "Privacy Policy",
       "type": "assets",
