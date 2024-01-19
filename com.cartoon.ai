@@ -1,228 +1,120 @@
 {
-  "Ads": [
+  "apps": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"ALIEN-M",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
-      "open_ads_alien":"PL350911184828",
-      "open_ads_max":"abcds1234567",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"8025677",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/webview.html",
+      "user_agent": "",
+      "navigation_drawer": true,
+      "navigation_icon_solid_color": false,
+      "geolocation": false,
+      "webview_cache": true,
+      "open_link_in_external_browser": false,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_vpn_access": false,
+      "enable_dark_mode_as_default_theme": false,
+      "enable_app_protection": false,
+      "base64_license_key": ""
     }
   ],
-  "Book": [
+  "menus": [
     {
-      "book_id": 1,
-      "book_name": "Bahasa Indonesia",
-      "url_book": "pdf/indonesia.pdf",
-      "url_cover_book": "file:///android_asset/image/indonesia.jpg",
-      "short_description": "Puisi adalah salah satu bentuk karya sastra yang banyak disukai karena disajikan dalam bahasa yang indah dan sifatnya yang imajinatif. Bahkan puisi juga dianggap sebagai rangkaian kata-kata yang menggambarkan perasaan penulis (penyair)."
+      "name": "Home",
+      "type": "url",
+      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/solodroid.png",
+      "url": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/solodroidev/content/uploads/html/webview/light/home.html",
+      "url_dark": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/solodroidev/content/uploads/html/webview/dark/home.html",
+      "toolbar": true
     },
     {
-      "book_id": 2,
-      "book_name": "Kimia",
-      "url_book": "https://aliendro.id/uploads/demo/multypdf/kimia.pdf",
-      "url_cover_book": "https://aliendro.id/uploads/demo/multypdf/kimia.webp",
-      "short_description": "Materi pada modul ini akan memberikan pengetahuan pada kalian tentang\nperkembangan model atom dari masa ke masa mulai dari teori atom kuno yang\ndikemukakan oleh Democritus, teori atom Dalton, J.J Thomson, Rutherford,Niels Bohr"
+      "name": "Aliendroid",
+      "type": "url",
+      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/aliendroid.png",
+      "url": "https://aliendro.id/profile/solodroid",
+      "url_dark": "",
+      "toolbar": true
     },
     {
-      "book_id": 3,
-      "book_name": "Matematika Umum",
-      "url_book": "pdf/matematika.pdf",
-      "url_cover_book": "file:///android_asset/image/matematika.jpg",
-      "short_description": "Pada modul kali ini kita akan mempelajari nilai trigonometri pada berbagai kuadran dan nilai-nilai sinus, cosinus dan tangen yang saling bersesuaian pada semua kuadran."
+      "name": "EasyApk",
+      "type": "url",
+      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/easyapk.png",
+      "url": "https://easyapk.id",
+      "url_dark": "",
+      "toolbar": true
     },
     {
-      "book_id": 4,
-      "book_name": "Bahasa Inggris",
-      "url_book": "https://aliendro.id/uploads/demo/multypdf/inggris.pdf",
-      "url_cover_book": "https://aliendro.id/uploads/demo/multypdf/inggris.webp",
-      "short_description": "modul ini akan memfasilitasi Anda untuk mampu berkomunikasi berkaitan memberi dan meminta informasi terkait pengandaian diikuti oleh perintah/saran, sesuai dengan konteks penggunaannya."
-    },
-    {
-      "book_id": 5,
-      "book_name": "Fisika",
-      "url_book": "https://aliendro.id/uploads/demo/multypdf/fisika.pdf",
-      "url_cover_book": "https://aliendro.id/uploads/demo/multypdf/fisika.webp",
-      "short_description": "Untuk dapat memahami materi Modul ini dengan baik, Anda hendaknya mengerjakan latihan dan evaluasi kemudian mencocokkan hasilnya dengan kunci jawaban yang tersedia di bagian belakang modul ini. "
-    },
-    {
-      "book_id": 6,
-      "book_name": "Geografi",
-      "url_book": "pdf/geografi.pdf",
-      "url_cover_book": "file:///android_asset/image/geografi.jpg",
-      "short_description": "Ketahanan Pangan, Industri, dan Energi meliputi: 1) Pengertian ketahanan pangan, bahan industri, serta energi baru dan terbarukan, 2) Potensi dan persebaran sumber daya pertanian, perkebunan, perikanan, dan peternakan untuk ketahanan pangan nasional."
-    },
-    {
-      "book_id": 7,
-      "book_name": "PJOK",
-      "url_book": "pdf/pjok.pdf",
-      "url_cover_book": "file:///android_asset/image/pjok.jpg",
-      "short_description": "Modul ini membahas tentang analisis ketrampilan 2 gaya renang untuk penyelamatan di air yaitu gaya dada dan gaya bebas, dimana kedua gaya ini lebih umum digunakan dalam upaya penyelamatan diri."
+      "name": "Privacy Policy",
+      "type": "assets",
+      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy.png",
+      "url": "privacy_policy.html",
+      "url_dark": "privacy_policy_dark.html",
+      "toolbar": true
     }
   ],
-  "Chapter": [
+  "ads": [
     {
-      "book_id": 1,
-      "chapter_name": "Pendahuluan",
-      "page_number": "6"
+      "ad_status": 1,
+      "main_ad": "admob",
+      "backup_ad": "fan",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 3,
+      "native_ad_style": "medium",
+      "show_banner_ad": true,
+      "show_interstitial_ad": true,
+      "show_native_ad_on_drawer_menu": true,
+      "show_native_ad_on_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "Guide Json",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
+      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
     },
     {
-      "book_id": 1,
-      "chapter_name": "Kegiatan Pembelajaran 1 : Menentukan Suasan, Tema dan Makna dalam Puisi",
-      "page_number": "8"
+      "id": 2,
+      "title": "Stream Json",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
+      "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
     },
     {
-      "book_id": 1,
-      "chapter_name": "Kegiatan Pembelajaran 2 : Membaca Puisi dengan Memperhatikan Vokal, Ekspresi, Dan Intonasi Yang Baik",
-      "page_number": "15"
+      "id": 3,
+      "title": "WebView Json",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/thumbnail.png",
+      "url": "https://aliendro.id/solodroid-webview-json-android-webview-app-207"
     },
     {
-      "book_id": 1,
-      "chapter_name": "Daftar Pustaka",
-      "page_number": "28"
-    },
-    {
-      "book_id": 2,
-      "chapter_name": "Pendahuluan",
-      "page_number": "6"
-    },
-    {
-      "book_id": 2,
-      "chapter_name": "Kegiatan Pembelajaran 1 : Bentuk Molekul Berdasarkan Teori VSEPR Dan Teori Domain Elektron",
-      "page_number": "8"
-    },
-    {
-      "book_id": 2,
-      "chapter_name": "Kegiatan Pembelajaran 2 : Menggambarkan Bentuk Molekul",
-      "page_number": "18"
-    },
-    {
-      "book_id": 2,
-      "chapter_name": "Daftar Pustaka",
-      "page_number": "30"
-    },
-    {
-      "book_id": 3,
-      "chapter_name": "Pendahuluan",
-      "page_number": "6"
-    },
-    {
-      "book_id": 3,
-      "chapter_name": "Kegiatan Pembelajaran 1 : Konsep Nilai Mutlak",
-      "page_number": "8"
-    },
-    {
-      "book_id": 3,
-      "chapter_name": "Kegiatan Pembelajaran 2 : Persamaan Nilai Mutlak Liner Satu Variabel",
-      "page_number": "14"
-    },
-    {
-      "book_id": 3,
-      "chapter_name": "Kegiatan Pembelajaran 3 : Pertidaksamaan Nilai Mutlak Linear Satu Variabel",
-      "page_number": "23"
-    },
-    {
-      "book_id": 3,
-      "chapter_name": "Daftar Pustaka",
-      "page_number": "33"
-    },
-    {
-      "book_id": 4,
-      "chapter_name": "Pendahuluan",
-      "page_number": "6"
-    },
-    {
-      "book_id": 4,
-      "chapter_name": "Kegiatan Pembelajaran 1 ",
-      "page_number": "8"
-    },
-    {
-      "book_id": 4,
-      "chapter_name": "Kegiatan Pembelajaran 2",
-      "page_number": "14"
-    },
-    {
-      "book_id": 4,
-      "chapter_name": "Daftar Pustaka",
-      "page_number": "24"
-    },
-    {
-      "book_id": 5,
-      "chapter_name": "Pendahuluan",
-      "page_number": "6"
-    },
-    {
-      "book_id": 5,
-      "chapter_name": "Kegiatan Pembelajaran 1 : Teori Relativitas Einstein",
-      "page_number": "8"
-    },
-    {
-      "book_id": 5,
-      "chapter_name": "Kegiatan Pembelajaran 2 : Dampak Teori Relativitas Einstein",
-      "page_number": "17"
-    },
-    {
-      "book_id": 5,
-      "chapter_name": "Daftar Pustaka",
-      "page_number": "30"
-    },
-    {
-      "book_id": 6,
-      "chapter_name": "Pendahuluan",
-      "page_number": "6"
-    },
-    {
-      "book_id": 6,
-      "chapter_name": "Kegiatan Pembelajaran 1 : Karakteristik Lapisan Atmosfer Vumi Serta Unsur-Unsur Cuasa Dan Iklam",
-      "page_number": "9"
-    },
-    {
-      "book_id": 6,
-      "chapter_name": "Kegiatan Pembelajaran 2 : Kalsifikasi Iklim, Pola Iklim Global, Dan Perubahan Iklim Global Terhadap Kehidpuan",
-      "page_number": "28"
-    },
-    {
-      "book_id": 6,
-      "chapter_name": "Kegiatan Pembelajaran 3 : Karakteristik Iklim Indonesia Dan Lembaga-Lembaga Yang Menyediakan Dan Memanfaatkan Data Cuaca Dan Iklim Indonesia",
-      "page_number": "39"
-    },
-    {
-      "book_id": 6,
-      "chapter_name": "Daftar Pustaka",
-      "page_number": "51"
-    },
-    {
-      "book_id": 7,
-      "chapter_name": "Pendahuluan",
-      "page_number": "6"
-    },
-    {
-      "book_id": 7,
-      "chapter_name": "Kegiatan Pembelajaran 1",
-      "page_number": "9"
-    },
-    {
-      "book_id": 7,
-      "chapter_name": "Kegiatan Pembelajaran 2",
-      "page_number": "16"
-    },
-    {
-      "book_id": 7,
-      "chapter_name": "Daftar Pustaka",
-      "page_number": "27"
+      "id": 4,
+      "title": "Wallpaper Json",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/thumbnail.png",
+      "url": "https://aliendro.id/solodroid-wallpaper-json-android-wallpaper-app-212"
     }
   ]
 }
