@@ -5,7 +5,7 @@
       "redirect_url": "",
       "privacy_policy_url": "",
       "user_agent": "",
-      "navigation_drawer": true,
+      "navigation_drawer": false,
       "navigation_icon_solid_color": false,
       "geolocation": false,
       "webview_cache": true,
