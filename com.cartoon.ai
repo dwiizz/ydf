@@ -1,4 +1,4 @@
-{
+ {
   "apps": [
     {
       "status": 1,
@@ -27,7 +27,14 @@
       "url_dark": "file:///android_asset/kartun/index.html",
       "toolbar": true
     },
-    
+     {
+      "name": "Bahan Ganti Wajah",
+      "type": "url",
+      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/solodroid.png",
+      "url": "file:///android_asset/kartun/index.html",
+      "url_dark": "file:///android_asset/kartun/index.html",
+      "toolbar": true
+    },
     {
       "name": "Privacy Policy",
       "type": "assets",
