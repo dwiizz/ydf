@@ -31,9 +31,9 @@
   [
     {
       "id":1,
-      "title":"Sample More App 1",
+      "title":"App 1",
       "image":"file:///android_asset/more/more1.jpg",
-      "link":"https://aliendro.id/"
+      "link":""
     }
 
   ],
