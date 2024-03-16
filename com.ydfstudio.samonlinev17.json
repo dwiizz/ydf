@@ -92,6 +92,14 @@
       "url_dark": "https://bapenda.riau.go.id/dashboard/layanan/infopajak",
       "toolbar": true
     },
+	   {
+      "name": "Cek Pajak Bengkulu",
+      "type": "url",
+      "icon": "https://pusako.bengkuluprov.go.id/public/assets/img/logo/pusako-line.png",
+      "url": "https://pusako.bengkuluprov.go.id/infopajak",
+      "url_dark": "https://pusako.bengkuluprov.go.id/infopajak",
+      "toolbar": true
+    },
 	  
 	   {
       "name": "Cek Pajak Kalimantan Timur",
