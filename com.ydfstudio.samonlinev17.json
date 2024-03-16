@@ -68,6 +68,14 @@
       "url_dark": "https://samsatsleman.jogjaprov.go.id/cek/pajak",
       "toolbar": true
     },
+	   {
+      "name": "Cek Pajak Banten",
+      "type": "url",
+      "icon": "https://infopkb.bantenprov.go.id/iconpembinasamsat.png",
+      "url": "https://infopkb.bantenprov.go.id/",
+      "url_dark": "https://infopkb.bantenprov.go.id/",
+      "toolbar": true
+    },
 	  
 	   {
       "name": "Cek Pajak Kalimantan Timur",
