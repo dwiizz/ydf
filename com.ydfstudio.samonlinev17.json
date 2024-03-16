@@ -84,6 +84,14 @@
       "url_dark": "https://bapenda.sumutprov.go.id/website/pajak#/pkb/info-pkb",
       "toolbar": true
     },
+	   {
+      "name": "Cek Pajak Riau",
+      "type": "url",
+      "icon": "https://bapenda.riau.go.id/assets/img/logo_atas_besar.png",
+      "url": "https://bapenda.riau.go.id/dashboard/layanan/infopajak",
+      "url_dark": "https://bapenda.riau.go.id/dashboard/layanan/infopajak",
+      "toolbar": true
+    },
 	  
 	   {
       "name": "Cek Pajak Kalimantan Timur",
