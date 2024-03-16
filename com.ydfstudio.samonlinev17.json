@@ -76,6 +76,14 @@
       "url_dark": "https://infopkb.bantenprov.go.id/",
       "toolbar": true
     },
+	  {
+      "name": "Cek Pajak Sumatera Utara",
+      "type": "url",
+      "icon": "https://bapenda.sumutprov.go.id/images/logo/1673795827logo%203x2.png",
+      "url": "https://bapenda.sumutprov.go.id/website/pajak#/pkb/info-pkb",
+      "url_dark": "https://bapenda.sumutprov.go.id/website/pajak#/pkb/info-pkb",
+      "toolbar": true
+    },
 	  
 	   {
       "name": "Cek Pajak Kalimantan Timur",
