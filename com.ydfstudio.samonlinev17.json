@@ -100,6 +100,14 @@
       "url_dark": "https://pusako.bengkuluprov.go.id/infopajak",
       "toolbar": true
     },
+	  {
+      "name": "Cek Pajak Kalimantan Barat",
+      "type": "url",
+      "icon": "http://simpator.kaltimprov.go.id/images/logo1.png",
+      "url": "https://uptppdptk1-bapenda.kalbarprov.go.id/beranda",
+      "url_dark": "https://uptppdptk1-bapenda.kalbarprov.go.id/beranda",
+      "toolbar": true
+    },
 	  
 	   {
       "name": "Cek Pajak Kalimantan Timur",
