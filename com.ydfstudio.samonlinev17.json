@@ -110,6 +110,14 @@
       "toolbar": true
     },
 	   {
+      "name": "Cek Pajak Papua",
+      "type": "url",
+      "icon": "http://180.250.219.60:81/cekpajak/images/headerkiri.jpg",
+      "url": "http://180.250.219.60:81/cekpajak/",
+      "url_dark": "http://180.250.219.60:81/cekpajak/",
+      "toolbar": true
+    },
+	   {
       "name": "Dengarkan Lagu",
       "type": "url",
       "icon": "https://cdn.pixabay.com/photo/2017/05/17/15/20/kids-2321161_960_720.png",
