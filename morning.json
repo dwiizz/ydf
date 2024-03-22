@@ -42,57 +42,72 @@
     {
       "id": "1",
       "name_category": "Morning Quotes",
-      "image": "file:///android_asset/morning/quotes(225).jpg"
+      "image": "file:///android_asset/morning/quotes (225).jpg"
     },
      {
       "id": "2",
       "name_category": "Morning Bible Wishes",
-      "image": "file:///android_asset/morning/bible(34).jpg"
+      "image": "file:///android_asset/morning/bible (34).jpg"
     },
      {
       "id": "3",
       "name_category": "Wishes",
-      "image": "file:///android_asset/morning/pray(106).jpg"
+      "image": "file:///android_asset/morning/pray (106).jpg"
     },
      {
        "id": "4",
        "name_category": "Good Morning",
-       "image": "file:///android_asset/morning/morning(114).jpg"
+       "image": "file:///android_asset/morning/morning (114).jpg"
      },
      {
        "id": "5",
        "name_category": "Good Afternoon",
-       "image": "file:///android_asset/morning/afternoon1.jpg"
+       "image": "file:///android_asset/morning/afternoon (1).jpg"
     },
      {
        "id": "6",
        "name_category": "Good Evening",
-       "image": "file:///android_asset/morning/evening(26).jpg"
+       "image": "file:///android_asset/morning/evening (26).jpg"
     },
      {
        "id": "7",
        "name_category": "Good Night",
-       "image": "file:///android_asset/morning/night(164).jpg"
+       "image": "file:///android_asset/morning/night (164).jpg"
     },
      {
-      "id": 1,
-      "name_category": "trend 2024",
-      "image": "https://i.pinimg.com/564x/58/38/49/5838499aedbf4f82a318bb10d63c9a54.jpg"
+       "id": "8",
+       "name_category": "Sunday Morning Wishes",
+       "image": "file:///android_asset/morning/sun (25).jpg"
     },
      {
-      "id": 1,
-      "name_category": "trend 2024",
-      "image": "https://i.pinimg.com/564x/58/38/49/5838499aedbf4f82a318bb10d63c9a54.jpg"
+       "id": "9",
+       "name_category": "Monday Morning Wishes",
+        "image": "file:///android_asset/morning/mon (83).jpg"
+    },
+    {
+       "id": "10",
+       "name_category": "Tuesday Morning Wishes",
+         "image": "file:///android_asset/morning/tue (7).jpg"
+    },
+    {
+         "id": "11",
+       "name_category": "Wednesday Morning Wishes",
+        "image": "file:///android_asset/morning/wed (31).jpg"
+    },
+    {
+         "id": "12",
+       "name_category": "Thursday Morning Wishes",
+       "image": "file:///android_asset/morning/thu (51).jpg"
     },
      {
-      "id": 1,
-      "name_category": "trend 2024",
-      "image": "https://i.pinimg.com/564x/58/38/49/5838499aedbf4f82a318bb10d63c9a54.jpg"
+       "id": "13",
+       "name_category": "Friday Morning Wishes",
+       "image": "file:///android_asset/morning/fri (100).jpg"
     },
      {
-      "id": 1,
-      "name_category": "trend 2024",
-      "image": "https://i.pinimg.com/564x/58/38/49/5838499aedbf4f82a318bb10d63c9a54.jpg"
+       "id": "349",
+       "name_category": "Saturday Morning Wishes",
+       "image": "file:///android_asset/morning/sat (26).jpg"
     }
   ],
 
