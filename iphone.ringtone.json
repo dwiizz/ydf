@@ -1,0 +1,151 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Categories": [
+    {
+      "category_id": 1,
+      "category_name": "All Sound"
+    },
+    {
+      "category_id": 2,
+      "category_name": "Favorites"
+    },
+    {
+      "category_id": 3,
+      "category_name": "Mamals"
+    },
+    {
+      "category_id": 4,
+      "category_name": "Reptils"
+    },
+    {
+      "category_id": 5,
+      "category_name": "Insect"
+    },
+    {
+      "category_id": 6,
+      "category_name": "Wild Animals"
+    },
+    {
+      "category_id": 7,
+      "category_name": "Pets Animals"
+    }
+
+  ],
+  "Sound": [
+    {
+      "sound_id": 1,
+      "category_name": "Mamals",
+      "sound_name": "Orang Utan",
+      "sound_file": "https://aliendro.id/demo/ringtone/utan.mp3",
+      "sound_image": "file:///android_asset/image/1.webp",
+      "sound_info": "https://id.m.wikipedia.org/wiki/Orang_utan"
+    },
+    {
+      "sound_id": 2,
+      "category_name": "Wild Animals",
+      "sound_name": "Lion",
+      "sound_file": "https://aliendro.id/demo/ringtone/singa.mp3",
+      "sound_image": "file:///android_asset/image/2.webp",
+      "sound_info": "https://id.m.wikipedia.org/wiki/Singa"
+    }
+  ,
+    {
+      "sound_id": 3,
+      "category_name": "Wild Animals",
+      "sound_name": "Elephant",
+      "sound_file": "https://aliendro.id/demo/ringtone/gajah.mp3",
+      "sound_image": "file:///android_asset/image/3.webp",
+      "sound_info": "file:///android_asset/info/gajah.html"
+    },
+    {
+      "sound_id": 4,
+      "category_name": "Mamals",
+      "sound_name": "Gorila",
+      "sound_file": "gorila",
+      "sound_image": "file:///android_asset/image/4.webp",
+      "sound_info": ""
+    },
+    {
+      "sound_id": 5,
+      "category_name": "Wild Animals",
+      "sound_name": "Giraffe",
+      "sound_file": "jerapah",
+      "sound_image": "file:///android_asset/image/5.webp",
+      "sound_info": "https://id.m.wikipedia.org/wiki/Jerapah"
+    },
+    {
+      "sound_id": 6,
+      "category_name": "Wild Animals",
+      "sound_name": "Rhinoceros",
+      "sound_file": "https://aliendro.id/demo/ringtone/badak.mp3",
+      "sound_image": "file:///android_asset/image/6.webp",
+      "sound_info": "https://id.m.wikipedia.org/wiki/Badak"
+    }
+  ,
+    {
+      "sound_id": 7,
+      "category_name": "Reptils",
+      "sound_name": "Crocodile",
+      "sound_file": "buaya",
+      "sound_image": "file:///android_asset/image/7.webp",
+      "sound_info": "https://id.m.wikipedia.org/wiki/Buaya"
+    }
+  ,
+    {
+      "sound_id": 8,
+      "category_name": "Reptils",
+      "sound_name": "Komodo",
+      "sound_file": "komodo",
+      "sound_image": "file:///android_asset/image/8.webp",
+      "sound_info": "https://id.m.wikipedia.org/wiki/Komodo"
+    }
+  ,
+    {
+      "sound_id": 9,
+      "category_name": "Insect",
+      "sound_name": "Bee",
+      "sound_file": "lebah",
+      "sound_image": "file:///android_asset/image/9.webp",
+      "sound_info": "null"
+    }
+  ,
+    {
+      "sound_id": 10,
+      "category_name": "Wild Animals",
+      "sound_name": "Wolf",
+      "sound_file": "serigala",
+      "sound_image": "file:///android_asset/image/10.webp",
+      "sound_info": "https://id.m.wikipedia.org/wiki/Serigala"
+    },
+    {
+      "sound_id": 11,
+      "category_name": "Wild Animals",
+      "sound_name": "Tiger",
+      "sound_file": "https://aliendro.id/demo/ringtone/harimau.mp3",
+      "sound_image": "file:///android_asset/image/11.webp",
+      "sound_info": "https://id.m.wikipedia.org/wiki/Harimau"
+    }
+  ]
+}
