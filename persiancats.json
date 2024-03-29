@@ -2,7 +2,7 @@
   "apps": [
     {
       "status": true,
-      "featured_categories": "Persian Cats, British Cats, Turkish Van Cats, Maine Coon cats, Bengal Cats, Sphinx cats, Egyptian cats, Siamese cats, Grace and Beauty",
+      "featured_categories": "Persian Cats, British Cats, Turkish Van Cats, Maine Coon cats, Bengal Cats, Sphinx cats, Egyptian cats, Siamese cats, Grace and Beauty, Houses for cats",
       "show_wallpaper_name": true,
       "show_wallpaper_category": true,
       "show_favorite_button_in_wallpaper_list": true,
@@ -12,7 +12,7 @@
       "enable_dark_mode_as_default_theme": false,
       "enable_more_apps": true,
       "redirect_url": "",
-      "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/wallpaper.html"
+      "privacy_policy_url": "https://ydfstudio.blogspot.com/2024/03/ydf-developer-apps-privacy-policy.html"
     }
   ],
   "ads": [
