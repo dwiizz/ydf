@@ -40,6 +40,11 @@
 
   "Categories": [
     {
+      "id": "20",
+      "name_category": "2024",
+      "image": "https://i.pinimg.com/564x/f4/c7/78/f4c778e0acca050716304def385df06b.jpg"
+    },
+    {
       "id": "1",
       "name_category": "Morning Quotes",
       "image": "file:///android_asset/morning/quotes (225).jpg"
@@ -113,6 +118,356 @@
 
   "Data":
  [
+   {
+   "id": "2000",
+   "name_category": "2024",
+   "title": "2000",
+   "image": "https://i.pinimg.com/564x/17/3d/59/173d596ee91b12675f02eeb44cc864e4.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2001",
+   "name_category": "2024",
+   "title": "2001",
+   "image": "https://i.pinimg.com/564x/f4/c7/78/f4c778e0acca050716304def385df06b.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2002",
+   "name_category": "2024",
+   "title": "2002",
+   "image": "https://i.pinimg.com/564x/6e/f3/3d/6ef33d6037a65d51dcf6bd5cb523b4fa.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2003",
+   "name_category": "2024",
+   "title": "2003",
+   "image": "https://i.pinimg.com/564x/b3/8a/3e/b38a3e066f6da68130f94248d30d3c8d.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2004",
+   "name_category": "2024",
+   "title": "2004",
+   "image": "https://i.pinimg.com/564x/6e/ef/e5/6eefe54bbfdc62ef8aaf92cdbe4fc454.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2005",
+   "name_category": "2024",
+   "title": "2005",
+   "image": "https://i.pinimg.com/564x/1e/57/f2/1e57f21c1e6e1991cf00720dfae137db.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2006",
+   "name_category": "2024",
+   "title": "2006",
+   "image": "https://i.pinimg.com/564x/1f/ce/ba/1fceba9e2604f467b5b412ee81bdb9b1.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2007",
+   "name_category": "2024",
+   "title": "2007",
+   "image": "https://i.pinimg.com/564x/29/dc/2d/29dc2d9f80eca5678d0926f46e7d1a4b.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2008",
+   "name_category": "2024",
+   "title": "2008",
+   "image": "https://i.pinimg.com/564x/6d/11/e4/6d11e4db9b9d12dd50d8292c9ed1ff38.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2009",
+   "name_category": "2024",
+   "title": "2009",
+   "image": "https://i.pinimg.com/564x/d0/77/f9/d077f97099e2614784e3f90320052e1c.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2010",
+   "name_category": "2024",
+   "title": "2010",
+   "image": "https://i.pinimg.com/564x/e9/69/a1/e969a18da78aa16d1d2459d86d625169.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2011",
+   "name_category": "2024",
+   "title": "2011",
+   "image": "https://i.pinimg.com/564x/87/4d/f7/874df737411676d7f2062a55ebdbcda7.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2012",
+   "name_category": "2024",
+   "title": "2012",
+   "image": "https://i.pinimg.com/564x/54/47/85/5447855ca2dc08cb03dda756eb6a543c.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2013",
+   "name_category": "2024",
+   "title": "2013",
+   "image": "https://i.pinimg.com/564x/c8/cd/37/c8cd378d956dd3e6e2eb7b77e02cc12c.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2014",
+   "name_category": "2024",
+   "title": "2014",
+   "image": "https://i.pinimg.com/564x/bc/ac/08/bcac08df76850042e96d3c0503c05691.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2015",
+   "name_category": "2024",
+   "title": "2015",
+   "image": "https://i.pinimg.com/564x/b1/e9/22/b1e92220d8b98785c8cd19588de190e5.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2016",
+   "name_category": "2024",
+   "title": "2016",
+   "image": "https://i.pinimg.com/564x/ba/fd/cf/bafdcfa2c40da097169e7e94ac9ecf74.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2017",
+   "name_category": "2024",
+   "title": "2017",
+   "image": "https://i.pinimg.com/564x/37/63/31/376331c83ebe97069dca810f11edb118.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2018",
+   "name_category": "2024",
+   "title": "2018",
+   "image": "https://i.pinimg.com/564x/18/18/0c/18180ce23316fb8d820a4a11401eb729.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2019",
+   "name_category": "2024",
+   "title": "2019",
+   "image": "https://i.pinimg.com/564x/dd/6e/a4/dd6ea4cdd31c3effeb254dc76e441d1d.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2020",
+   "name_category": "2024",
+   "title": "2020",
+   "image": "https://i.pinimg.com/564x/f6/2f/41/f62f412960c43a64893a007256c9cd69.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2021",
+   "name_category": "2024",
+   "title": "2021",
+   "image": "https://i.pinimg.com/564x/0b/68/4e/0b684e1f32f97fa006accadaa67d4111.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2022",
+   "name_category": "2024",
+   "title": "2022",
+   "image": "https://i.pinimg.com/564x/87/3d/2f/873d2f4757f7defc2a1f8918b2376dad.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2023",
+   "name_category": "2024",
+   "title": "2023",
+   "image": "https://i.pinimg.com/564x/19/71/ba/1971ba3927e9be87a7a8d4df5665af56.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2024",
+   "name_category": "2024",
+   "title": "2024",
+   "image": "https://i.pinimg.com/564x/93/b1/c0/93b1c01d91ae950a23fb5cd8ce36b5b3.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2025",
+   "name_category": "2024",
+   "title": "2025",
+   "image": "https://i.pinimg.com/564x/d8/30/41/d83041429d80c170cbcc000464fbf301.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2026",
+   "name_category": "2024",
+   "title": "2026",
+   "image": "https://i.pinimg.com/564x/93/b1/c0/93b1c01d91ae950a23fb5cd8ce36b5b3.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2027",
+   "name_category": "2024",
+   "title": "2027",
+   "image": "https://i.pinimg.com/564x/85/3d/f4/853df4dd53e9b6074028b49272ff594e.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2028",
+   "name_category": "2024",
+   "title": "2028",
+   "image": "https://i.pinimg.com/564x/31/cb/d7/31cbd72b6abaa4b6798a469e557c48eb.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2029",
+   "name_category": "2024",
+   "title": "2029",
+   "image": "https://i.pinimg.com/564x/23/12/7a/23127a4b4f56b48d75fc7005dd965a92.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2030",
+   "name_category": "2024",
+   "title": "2030",
+   "image": "https://i.pinimg.com/564x/02/ae/89/02ae898986076e459bcacc8d5201935f.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2031",
+   "name_category": "2024",
+   "title": "2031",
+   "image": "https://i.pinimg.com/564x/93/5d/a8/935da830356a4985d143ddef2930110e.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2032",
+   "name_category": "2024",
+   "title": "2032",
+   "image": "https://i.pinimg.com/564x/bb/94/89/bb94899b27db9abb65d896e86374c7c9.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2033",
+   "name_category": "2024",
+   "title": "2033",
+   "image": "https://i.pinimg.com/564x/ea/38/85/ea3885519d2741da5068be0df500cb17.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2034",
+   "name_category": "2024",
+   "title": "2034",
+   "image": "https://i.pinimg.com/564x/a7/99/97/a79997940bcf3c6eb2caa1a06fa16ad0.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2035",
+   "name_category": "2024",
+   "title": "2035",
+   "image": "https://i.pinimg.com/564x/e6/bc/89/e6bc899451c1073408362811292474eb.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2036",
+   "name_category": "2024",
+   "title": "2036",
+   "image": "https://i.pinimg.com/564x/69/90/fe/6990fe612fc6e6131ad1479f5323b3ed.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2037",
+   "name_category": "2024",
+   "title": "2037",
+   "image": "https://i.pinimg.com/564x/cd/a6/5a/cda65a9fd3ded1692537408e7e1e0dda.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2038",
+   "name_category": "2024",
+   "title": "2038",
+   "image": "https://i.pinimg.com/564x/ba/09/36/ba0936677cb7b9e72f90ed182b6ba7f3.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2039",
+   "name_category": "2024",
+   "title": "2039",
+   "image": "https://i.pinimg.com/564x/82/d3/b7/82d3b79ed8fd10defa4192eb9af8f097.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2040",
+   "name_category": "2024",
+   "title": "2040",
+   "image": "https://i.pinimg.com/564x/19/5b/77/195b772fca3bdcd989d4e56ba61be0dc.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2041",
+   "name_category": "2024",
+   "title": "2041",
+   "image": "https://i.pinimg.com/564x/fb/fb/2a/fbfb2a601bc3da6ba622ea019a75ee7b.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2042",
+   "name_category": "2024",
+   "title": "2042",
+   "image": "https://i.pinimg.com/564x/72/d8/c5/72d8c5e7ce33b1e66008b0d15b58ca00.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2043",
+   "name_category": "2024",
+   "title": "2043",
+   "image": "https://i.pinimg.com/564x/9b/06/33/9b063375154cdc0c90e1d36ec8c6afbb.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2044",
+   "name_category": "2024",
+   "title": "2044",
+   "image": "https://i.pinimg.com/564x/b8/33/21/b833212386641ad349911a7e13772b6f.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2045",
+   "name_category": "2024",
+   "title": "2045",
+   "image": "https://i.pinimg.com/564x/1a/ca/47/1aca47df92195e8811021ae79e5892cf.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2046",
+   "name_category": "2024",
+   "title": "2046",
+   "image": "https://i.pinimg.com/564x/b9/f4/52/b9f4529428f1f4e382e604cfa5a4ca78.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2047",
+   "name_category": "2024",
+   "title": "2047",
+   "image": "https://i.pinimg.com/564x/14/91/9b/14919b64a1ff608d63abd964fe6bdf4d.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2048",
+   "name_category": "2024",
+   "title": "2048",
+   "image": "https://i.pinimg.com/564x/2f/31/f7/2f31f7e57d7c81609b976287883737cd.jpg",
+   "lock": "false"
+ },
+ {
+   "id": "2049",
+   "name_category": "2024",
+   "title": "2049",
+   "image": "https://i.pinimg.com/564x/e4/6a/fe/e46afee7455079dd96af8b4809744281.jpg",
+   "lock": "false"
+ },
  {
    "id": "1",
    "name_category": "Good Night",
