@@ -73,66 +73,57 @@
     }
   ],
   "categories": [
-    {
-      "category_id": 1,
-      "category_name": "Nature",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/nature.jpg"
-    },
-    {
-      "category_id": 2,
-      "category_name": "Sunset",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/sunset.jpg"
-    },
-    {
-      "category_id": 3,
-      "category_name": "Animal",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/animal.jpg"
-    },
-    {
-      "category_id": 4,
-      "category_name": "Forest",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/forest.jpg"
-    },
-    {
-      "category_id": 5,
-      "category_name": "City",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/city.jpg"
-    },
-    {
-      "category_id": 6,
-      "category_name": "Flower",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/flower.jpg"
-    },
-    {
-      "category_id": 7,
-      "category_name": "Live Wallpaper",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/live.jpg"
-    },
-    {
-      "category_id": 8,
-      "category_name": "Beach",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/beach.jpg"
-    },
-    {
-      "category_id": 9,
-      "category_name": "House",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/house.jpg"
-    },
-    {
-      "category_id": 10,
-      "category_name": "Space",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/space.jpg"
-    },
-    {
-      "category_id": 11,
-      "category_name": "Mountain",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/mountain.jpg"
-    },
-    {
-      "category_id": 12,
-      "category_name": "Road",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/road.jpg"
-    }
+ {
+   "category_id": 1,
+   "category_name": "Persian Cats",
+   "category_image": "https://i.pinimg.com/564x/e1/e7/d2/e1e7d2fb22ed2fd16c8c1b852c6d62e8.jpg"
+ },
+ {
+   "category_id": 2,
+   "category_name": "British Cats",
+   "category_image": "https://i.pinimg.com/564x/f7/a3/41/f7a3417fe00593fd26b447f35848e41d.jpg"
+ },
+ {
+   "category_id": 3,
+   "category_name": "Turkish Van Cats",
+   "category_image": "https://i.pinimg.com/564x/a7/8f/8d/a78f8d45dcefcea019a679a7b13b87b0.jpg"
+ },
+ {
+   "category_id": 4,
+   "category_name": "Maine Coon cats",
+   "category_image": "https://i.pinimg.com/564x/5f/38/2d/5f382d8f00589ef5a354a0590c08867a.jpg"
+ },
+ {
+   "category_id": 5,
+   "category_name": "Bengal Cats",
+   "category_image": "https://i.pinimg.com/564x/17/93/c2/1793c2c29fcb91aed4a96d952e74d1da.jpg"
+ },
+ {
+   "category_id": 6,
+   "category_name": "Sphinx cats",
+   "category_image": "https://i.pinimg.com/564x/51/42/e0/5142e0b49644e42d45c375e938e7fd57.jpg"
+ },
+ {
+   "category_id": 7,
+   "category_name": "Egyptian cats",
+   "category_image": "https://i.pinimg.com/564x/b4/e5/58/b4e558fce92ecba23026f39c936f84b6.jpg"
+ },
+ {
+   "category_id": 8,
+   "category_name": "Siamese cats",
+   "category_image": "https://i.pinimg.com/564x/fb/03/7f/fb037f098d71cd32dfd33926e4a2d16a.jpg"
+ },
+ {
+   "category_id": 9,
+   "category_name": "Grace and Beauty",
+   "category_image": "https://i.pinimg.com/564x/62/92/45/6292452bdb066dc3630b7d5ecd3a8b8e.jpg"
+ },
+ {
+   "category_id": 10,
+   "category_name": "Grace and Beauty",
+   "category_image": "https://i.pinimg.com/564x/a6/15/d0/a615d088566421179901d7d579b21c0d.jpg"
+ }
+
   ],
   "wallpapers": [
  {
@@ -358,6 +349,1308 @@
    "wallpaper_name": "cats32",
    "wallpaper_thumbnail": "",
    "wallpaper_url": "https://i.pinimg.com/564x/19/98/2d/19982d1b3d9b1f3d742b659b2c0160e0.jpg"
+ },
+     {
+   "wallpaper_id": 62,
+   "category_name": "British Cats",
+   "wallpaper_name": "cats62",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/ae/61/97/ae6197aa66aca951271e9dbee2deacb3.jpg"
+ },
+ {
+   "wallpaper_id": 57,
+   "category_name": "British Cats",
+   "wallpaper_name": "cats57",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/6d/ff/a4/6dffa400d7cf8dadda16d3e201ba114b.jpg"
+ },
+ {
+   "wallpaper_id": 172,
+   "category_name": "Siamese cats",
+   "wallpaper_name": "cats172",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/6f/80/53/6f8053b62a32d859c19d3ff6e379225d.jpg"
+ },
+ {
+   "wallpaper_id": 170,
+   "category_name": "Siamese cats",
+   "wallpaper_name": "cats170",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/50/14/38/50143896df4bc20ae23f6d51df82ce44.jpg"
+ },
+ {
+   "wallpaper_id": 166,
+   "category_name": "Siamese cats",
+   "wallpaper_name": "cats166",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/a0/95/79/a095792794be36e3b13d499e1eedc128.jpg"
+ },
+ {
+   "wallpaper_id": 123,
+   "category_name": "Sphinx cats",
+   "wallpaper_name": "cats123",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/87/3b/19/873b19c75256b7087b237faddf469e3e.jpg"
+ },
+ {
+   "wallpaper_id": 196,
+   "category_name": "Grace and Beauty",
+   "wallpaper_name": "cats196",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/93/ea/17/93ea17e043001f95d97e1bdabf6b57b8.jpg"
+ },
+ {
+   "wallpaper_id": 152,
+   "category_name": "Egyptian cats",
+   "wallpaper_name": "cats152",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/f7/f2/78/f7f27821f92e810e7d804189e0c7c6d6.jpg"
+ },
+ {
+   "wallpaper_id": 100,
+   "category_name": "Bengal Cats",
+   "wallpaper_name": "cats100",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/39/24/20/3924207a2ca9340da33ba9a6b9a1be08.jpg"
+ },
+ {
+   "wallpaper_id": 128,
+   "category_name": "Sphinx cats",
+   "wallpaper_name": "cats128",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/a1/92/56/a192562f4fcfbb9d0d795745ddc3d9fc.jpg"
+ },
+ {
+   "wallpaper_id": 139,
+   "category_name": "Egyptian cats",
+   "wallpaper_name": "cats139",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/95/22/89/952289cff90cfe1059d87d6727e801cb.jpg"
+ },
+ {
+   "wallpaper_id": 45,
+   "category_name": "British Cats",
+   "wallpaper_name": "cats45",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/1e/63/c1/1e63c1cb528dddb0644a2bd27ef274f3.jpg"
+ },
+ {
+   "wallpaper_id": 163,
+   "category_name": "Siamese cats",
+   "wallpaper_name": "cats163",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/6e/27/0c/6e270c5c81db8daaaff3f31e86caee0b.jpg"
+ },
+ {
+   "wallpaper_id": 35,
+   "category_name": "Persian Cats",
+   "wallpaper_name": "cats35",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/10/46/fa/1046fabd77be6494f9608bca967d8059.jpg"
+ },
+ {
+   "wallpaper_id": 202,
+   "category_name": "Houses for cats",
+   "wallpaper_name": "cats202",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/61/43/72/61437260dc9ef8f64f4373ae89f6ca92.jpg"
+ },
+ {
+   "wallpaper_id": 117,
+   "category_name": "Sphinx cats",
+   "wallpaper_name": "cats117",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/3a/0b/bc/3a0bbc5b25090c4a3a8f10c8fe894fa8.jpg"
+ },
+ {
+   "wallpaper_id": 204,
+   "category_name": "Houses for cats",
+   "wallpaper_name": "cats204",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/ad/c5/4e/adc54e00d161cc4e00ff93a5f757a6d1.jpg"
+ },
+ {
+   "wallpaper_id": 188,
+   "category_name": "Grace and Beauty",
+   "wallpaper_name": "cats188",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/66/5b/13/665b13317c1fb5120dc911a8222755c3.jpg"
+ },
+ {
+   "wallpaper_id": 39,
+   "category_name": "Persian Cats",
+   "wallpaper_name": "cats39",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/f3/ac/69/f3ac69b702db386ecff8cf33b2c99a27.jpg"
+ },
+ {
+   "wallpaper_id": 209,
+   "category_name": "Houses for cats",
+   "wallpaper_name": "cats209",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/69/82/f0/6982f058beb3922bbd55c0b738685765.jpg"
+ },
+ {
+   "wallpaper_id": 33,
+   "category_name": "Persian Cats",
+   "wallpaper_name": "cats33",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/52/cb/9c/52cb9cf04d98cda5529c8ee5c721a639.jpg"
+ },
+ {
+   "wallpaper_id": 116,
+   "category_name": "Bengal Cats",
+   "wallpaper_name": "cats116",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/17/93/c2/1793c2c29fcb91aed4a96d952e74d1da.jpg"
+ },
+ {
+   "wallpaper_id": 58,
+   "category_name": "British Cats",
+   "wallpaper_name": "cats58",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/72/8d/e8/728de8c165b6a71528b3cf5126602083.jpg"
+ },
+ {
+   "wallpaper_id": 184,
+   "category_name": "Grace and Beauty",
+   "wallpaper_name": "cats184",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/04/63/ac/0463acf88c4fdbcdbb118133a45ee239.jpg"
+ },
+ {
+   "wallpaper_id": 51,
+   "category_name": "British Cats",
+   "wallpaper_name": "cats51",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/15/cf/d9/15cfd938e3d63f260509f91d1a0cde14.jpg"
+ },
+ {
+   "wallpaper_id": 161,
+   "category_name": "Siamese cats",
+   "wallpaper_name": "cats161",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/34/e4/54/34e45486e0c1ac0f71557f49e8b1e899.jpg"
+ },
+ {
+   "wallpaper_id": 103,
+   "category_name": "Bengal Cats",
+   "wallpaper_name": "cats103",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/aa/2a/5a/aa2a5a12c9e31f6db08c9ed99f781652.jpg"
+ },
+ {
+   "wallpaper_id": 50,
+   "category_name": "British Cats",
+   "wallpaper_name": "cats50",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/5b/23/a6/5b23a64fca7a7e61bcb1b4c76caaacdd.jpg"
+ },
+ {
+   "wallpaper_id": 197,
+   "category_name": "Grace and Beauty",
+   "wallpaper_name": "cats197",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/f3/87/bf/f387bfa2a2ed26ad045b41a3c5dd8ccc.jpg"
+ },
+ {
+   "wallpaper_id": 97,
+   "category_name": "Bengal Cats",
+   "wallpaper_name": "cats97",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/40/71/33/407133af7938fff5b8eef82b26b7b851.jpg"
+ },
+ {
+   "wallpaper_id": 118,
+   "category_name": "Sphinx cats",
+   "wallpaper_name": "cats118",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/66/65/dc/6665dceee74bf46a9a7671dd47ebe968.jpg"
+ },
+ {
+   "wallpaper_id": 179,
+   "category_name": "Grace and Beauty",
+   "wallpaper_name": "cats179",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/0f/12/fa/0f12faa4bcc7b7f19ff176eaf8e9998f.jpg"
+ },
+ {
+   "wallpaper_id": 49,
+   "category_name": "British Cats",
+   "wallpaper_name": "cats49",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/26/eb/c5/26ebc58864b2c0474383fa43acda105e.jpg"
+ },
+ {
+   "wallpaper_id": 87,
+   "category_name": "Maine Coon cats",
+   "wallpaper_name": "cats87",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/d7/0e/4c/d70e4c098f8a9aaa3ff36402b3387b1f.jpg"
+ },
+ {
+   "wallpaper_id": 105,
+   "category_name": "Bengal Cats",
+   "wallpaper_name": "cats105",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/a5/1a/4c/a51a4c5e51f1cb0dd29100e8aaa9ff66.jpg"
+ },
+ {
+   "wallpaper_id": 165,
+   "category_name": "Siamese cats",
+   "wallpaper_name": "cats165",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/f9/41/76/f94176fecd019fe1294dc91e4efaff2d.jpg"
+ },
+ {
+   "wallpaper_id": 180,
+   "category_name": "Grace and Beauty",
+   "wallpaper_name": "cats180",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/a3/01/2c/a3012c5352c2cf883d8712d80fd87bbb.jpg"
+ },
+ {
+   "wallpaper_id": 195,
+   "category_name": "Grace and Beauty",
+   "wallpaper_name": "cats195",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/83/90/95/839095c48f4b383c0b53a1e228a21428.jpg"
+ },
+ {
+   "wallpaper_id": 46,
+   "category_name": "British Cats",
+   "wallpaper_name": "cats46",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/6f/9a/5e/6f9a5e4d3b7c0f246ba914200944a8bb.jpg"
+ },
+ {
+   "wallpaper_id": 206,
+   "category_name": "Houses for cats",
+   "wallpaper_name": "cats206",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/77/91/d5/7791d544e2c8af2cb96b4e4f5889c292.jpg"
+ },
+ {
+   "wallpaper_id": 88,
+   "category_name": "Maine Coon cats",
+   "wallpaper_name": "cats88",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/d6/ea/32/d6ea32242f50717e6e5df357e9a0e710.jpg"
+ },
+ {
+   "wallpaper_id": 142,
+   "category_name": "Egyptian cats",
+   "wallpaper_name": "cats142",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/04/fc/49/04fc492d388d6f629b62f6d8187ffc68.jpg"
+ },
+ {
+   "wallpaper_id": 186,
+   "category_name": "Grace and Beauty",
+   "wallpaper_name": "cats186",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/eb/6e/d7/eb6ed76bbce177fddab1a380e07ba6cd.jpg"
+ },
+ {
+   "wallpaper_id": 127,
+   "category_name": "Sphinx cats",
+   "wallpaper_name": "cats127",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/6b/43/27/6b43277f91d9ef7052b8af604ebf66a4.jpg"
+ },
+ {
+   "wallpaper_id": 159,
+   "category_name": "Siamese cats",
+   "wallpaper_name": "cats159",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/fa/af/63/faaf63c7746631ab25559e0673c8042a.jpg"
+ },
+ {
+   "wallpaper_id": 215,
+   "category_name": "Houses for cats",
+   "wallpaper_name": "cats215",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/41/73/68/4173680e363248d34925a54a0bdbd277.jpg"
+ },
+ {
+   "wallpaper_id": 80,
+   "category_name": "Maine Coon cats",
+   "wallpaper_name": "cats80",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/bf/20/17/bf20171894589a1d2fdb8df6dc2cbed3.jpg"
+ },
+ {
+   "wallpaper_id": 177,
+   "category_name": "Grace and Beauty",
+   "wallpaper_name": "cats177",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/a6/15/d0/a615d088566421179901d7d579b21c0d.jpg"
+ },
+ {
+   "wallpaper_id": 153,
+   "category_name": "Egyptian cats",
+   "wallpaper_name": "cats153",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/d2/77/f4/d277f44b2fbee225ddf957633b8a2cfa.jpg"
+ },
+ {
+   "wallpaper_id": 175,
+   "category_name": "Siamese cats",
+   "wallpaper_name": "cats175",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/e2/5c/a1/e25ca1fb657008a4650cec5f2fc3447b.jpg"
+ },
+ {
+   "wallpaper_id": 96,
+   "category_name": "Bengal Cats",
+   "wallpaper_name": "cats96",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/83/59/e7/8359e730b61f035b4ede526fd3cdf46a.jpg"
+ },
+ {
+   "wallpaper_id": 44,
+   "category_name": "Persian Cats",
+   "wallpaper_name": "cats44",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/6c/47/1e/6c471e3dd17b78ead61b7b1232b6ffc5.jpg"
+ },
+ {
+   "wallpaper_id": 68,
+   "category_name": "Turkish Van Cats",
+   "wallpaper_name": "cats68",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/c6/5c/a2/c65ca2a6a02019497fddd78973e42ee9.jpg"
+ },
+ {
+   "wallpaper_id": 136,
+   "category_name": "Sphinx cats",
+   "wallpaper_name": "cats136",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/51/42/e0/5142e0b49644e42d45c375e938e7fd57.jpg"
+ },
+ {
+   "wallpaper_id": 141,
+   "category_name": "Egyptian cats",
+   "wallpaper_name": "cats141",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/04/14/ca/0414caba8ea5ba255f02362d50272b24.jpg"
+ },
+ {
+   "wallpaper_id": 183,
+   "category_name": "Grace and Beauty",
+   "wallpaper_name": "cats183",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/e9/2a/35/e92a350bd4d4f1053df50ce5d37d99dc.jpg"
+ },
+ {
+   "wallpaper_id": 151,
+   "category_name": "Egyptian cats",
+   "wallpaper_name": "cats151",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/56/4c/3f/564c3fbdcf7ecbe41c550c456b25514a.jpg"
+ },
+ {
+   "wallpaper_id": 160,
+   "category_name": "Siamese cats",
+   "wallpaper_name": "cats160",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/66/12/66/66126670f5a444c1851b9ac321205282.jpg"
+ },
+ {
+   "wallpaper_id": 155,
+   "category_name": "Egyptian cats",
+   "wallpaper_name": "cats155",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/0c/4a/21/0c4a210f37fe634e33091f09265ee117.jpg"
+ },
+ {
+   "wallpaper_id": 147,
+   "category_name": "Egyptian cats",
+   "wallpaper_name": "cats147",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/be/de/a8/bedea830ab64069378485fd52858cb6d.jpg"
+ },
+ {
+   "wallpaper_id": 121,
+   "category_name": "Sphinx cats",
+   "wallpaper_name": "cats121",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/d4/e5/eb/d4e5eb2b4c1b977bdae140154e6a9d65.jpg"
+ },
+ {
+   "wallpaper_id": 75,
+   "category_name": "Turkish Van Cats",
+   "wallpaper_name": "cats75",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/a7/8f/8d/a78f8d45dcefcea019a679a7b13b87b0.jpg"
+ },
+ {
+   "wallpaper_id": 55,
+   "category_name": "British Cats",
+   "wallpaper_name": "cats55",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/3d/c8/c3/3dc8c312abf8c39286ebb81f0f83bdc0.jpg"
+ },
+ {
+   "wallpaper_id": 143,
+   "category_name": "Egyptian cats",
+   "wallpaper_name": "cats143",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/d3/14/bc/d314bceed525b083b7a3b05805407010.jpg"
+ },
+ {
+   "wallpaper_id": 182,
+   "category_name": "Grace and Beauty",
+   "wallpaper_name": "cats182",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/8e/b0/0b/8eb00bca2e3ddd0b2d332c864e9bc5c3.jpg"
+ },
+ {
+   "wallpaper_id": 205,
+   "category_name": "Houses for cats",
+   "wallpaper_name": "cats205",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/9a/2f/01/9a2f019e0ea781e6d8b6cac275201133.jpg"
+ },
+ {
+   "wallpaper_id": 93,
+   "category_name": "Maine Coon cats",
+   "wallpaper_name": "cats93",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/ac/65/24/ac6524d9cf757fb8d11a4adb154fa1a2.jpg"
+ },
+ {
+   "wallpaper_id": 70,
+   "category_name": "Turkish Van Cats",
+   "wallpaper_name": "cats70",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/4d/7e/0a/4d7e0a8e727dd403a961fb91b0c454cc.jpg"
+ },
+ {
+   "wallpaper_id": 203,
+   "category_name": "Houses for cats",
+   "wallpaper_name": "cats203",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/90/db/71/90db71dc732b93f012c129ee93de6b4e.jpg"
+ },
+ {
+   "wallpaper_id": 124,
+   "category_name": "Sphinx cats",
+   "wallpaper_name": "cats124",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/3f/0b/b0/3f0bb0c66b51b40f8d830f070bdb6c46.jpg"
+ },
+ {
+   "wallpaper_id": 189,
+   "category_name": "Grace and Beauty",
+   "wallpaper_name": "cats189",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/4d/9a/cb/4d9acbecae716aea771185813353c8e6.jpg"
+ },
+ {
+   "wallpaper_id": 47,
+   "category_name": "British Cats",
+   "wallpaper_name": "cats47",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/82/03/0f/82030f6e476280e95331270449b830d2.jpg"
+ },
+ {
+   "wallpaper_id": 115,
+   "category_name": "Bengal Cats",
+   "wallpaper_name": "cats115",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/e9/1a/00/e91a001edc0564ee018e7df1989f165e.jpg"
+ },
+ {
+   "wallpaper_id": 104,
+   "category_name": "Bengal Cats",
+   "wallpaper_name": "cats104",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/81/bc/6c/81bc6ce980010d1f932a031aac9bd2b4.jpg"
+ },
+ {
+   "wallpaper_id": 158,
+   "category_name": "Siamese cats",
+   "wallpaper_name": "cats158",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/93/ab/9a/93ab9adb7f082e5b808092f950882b26.jpg"
+ },
+ {
+   "wallpaper_id": 64,
+   "category_name": "British Cats",
+   "wallpaper_name": "cats64",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/fc/e8/e4/fce8e4b38b64ed6e5ea9329ffaef3ba8.jpg"
+ },
+ {
+   "wallpaper_id": 120,
+   "category_name": "Sphinx cats",
+   "wallpaper_name": "cats120",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/ce/7b/79/ce7b792ef4b5ad7016b82a981bf48273.jpg"
+ },
+ {
+   "wallpaper_id": 107,
+   "category_name": "Bengal Cats",
+   "wallpaper_name": "cats107",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/37/93/99/379399ad15d286f5b2a581f60c7ed6fd.jpg"
+ },
+ {
+   "wallpaper_id": 122,
+   "category_name": "Sphinx cats",
+   "wallpaper_name": "cats122",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/bf/90/9f/bf909fa397e69527e6f6525a2cdb8ac1.jpg"
+ },
+ {
+   "wallpaper_id": 85,
+   "category_name": "Maine Coon cats",
+   "wallpaper_name": "cats85",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/9a/7d/bc/9a7dbca87b62f919419b08096536f619.jpg"
+ },
+ {
+   "wallpaper_id": 164,
+   "category_name": "Siamese cats",
+   "wallpaper_name": "cats164",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/ff/fa/10/fffa108bdf0d72d462980c3a576c3533.jpg"
+ },
+ {
+   "wallpaper_id": 171,
+   "category_name": "Siamese cats",
+   "wallpaper_name": "cats171",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/44/28/b7/4428b74465642e7acbd1e54cf7b49a49.jpg"
+ },
+ {
+   "wallpaper_id": 173,
+   "category_name": "Siamese cats",
+   "wallpaper_name": "cats173",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/e6/ad/89/e6ad89a68bd79a4b6a91c56afd452bcc.jpg"
+ },
+ {
+   "wallpaper_id": 148,
+   "category_name": "Egyptian cats",
+   "wallpaper_name": "cats148",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/8d/c3/87/8dc3877e0e52c9d7c960268628f4fc98.jpg"
+ },
+ {
+   "wallpaper_id": 157,
+   "category_name": "Siamese cats",
+   "wallpaper_name": "cats157",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/f0/dd/1b/f0dd1b3ef61355a3d3ba456ffc6c5153.jpg"
+ },
+ {
+   "wallpaper_id": 193,
+   "category_name": "Grace and Beauty",
+   "wallpaper_name": "cats193",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/41/19/84/41198440c1ae4aa0c0ac8c74e1288da6.jpg"
+ },
+ {
+   "wallpaper_id": 167,
+   "category_name": "Siamese cats",
+   "wallpaper_name": "cats167",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/3b/0f/6f/3b0f6f45864861161a619bd7dc176fe4.jpg"
+ },
+ {
+   "wallpaper_id": 65,
+   "category_name": "British Cats",
+   "wallpaper_name": "cats65",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/ed/b2/be/edb2be044fb0536994b5c2df4f20685d.jpg"
+ },
+ {
+   "wallpaper_id": 83,
+   "category_name": "Maine Coon cats",
+   "wallpaper_name": "cats83",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/65/9c/3d/659c3d42cdc036df10111c28d84a9005.jpg"
+ },
+ {
+   "wallpaper_id": 192,
+   "category_name": "Grace and Beauty",
+   "wallpaper_name": "cats192",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/d2/2a/a0/d22aa007f56f1fb8461780fe6de0bf45.jpg"
+ },
+ {
+   "wallpaper_id": 77,
+   "category_name": "Maine Coon cats",
+   "wallpaper_name": "cats77",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/bb/1a/44/bb1a44b78ac3bea4e110f99d2ebef75d.jpg"
+ },
+ {
+   "wallpaper_id": 76,
+   "category_name": "Maine Coon cats",
+   "wallpaper_name": "cats76",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/9f/05/3e/9f053ef6cd38cfa1513de657c31d4a03.jpg"
+ },
+ {
+   "wallpaper_id": 102,
+   "category_name": "Bengal Cats",
+   "wallpaper_name": "cats102",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/6f/92/83/6f9283c753935991d603028af0b1adb8.jpg"
+ },
+ {
+   "wallpaper_id": 169,
+   "category_name": "Siamese cats",
+   "wallpaper_name": "cats169",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/11/f2/8a/11f28aad12ebd88eaa052517f745a310.jpg"
+ },
+ {
+   "wallpaper_id": 199,
+   "category_name": "Houses for cats",
+   "wallpaper_name": "cats199",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/7a/a8/b3/7aa8b33cb556c779ee247f0880776fe7.jpg"
+ },
+ {
+   "wallpaper_id": 108,
+   "category_name": "Bengal Cats",
+   "wallpaper_name": "cats108",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/3d/9b/8b/3d9b8b3ec43c6c148bd1d352a58302d4.jpg"
+ },
+ {
+   "wallpaper_id": 208,
+   "category_name": "Houses for cats",
+   "wallpaper_name": "cats208",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/11/68/7b/11687bdbcfebc251d2ede9c9112b8286.jpg"
+ },
+ {
+   "wallpaper_id": 43,
+   "category_name": "Persian Cats",
+   "wallpaper_name": "cats43",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/da/86/05/da86054cccc679d54961988d77d3bbd0.jpg"
+ },
+ {
+   "wallpaper_id": 137,
+   "category_name": "Egyptian cats",
+   "wallpaper_name": "cats137",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/b4/e5/58/b4e558fce92ecba23026f39c936f84b6.jpg"
+ },
+ {
+   "wallpaper_id": 53,
+   "category_name": "British Cats",
+   "wallpaper_name": "cats53",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/e1/99/f6/e199f6f0683fb16fd8db1fe447371ec9.jpg"
+ },
+ {
+   "wallpaper_id": 200,
+   "category_name": "Houses for cats",
+   "wallpaper_name": "cats200",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/99/21/4a/99214a81ce15e770adc72df1d0723e6b.jpg"
+ },
+ {
+   "wallpaper_id": 150,
+   "category_name": "Egyptian cats",
+   "wallpaper_name": "cats150",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/f1/db/aa/f1dbaa7c2ad504ae332512a6654c686a.jpg"
+ },
+ {
+   "wallpaper_id": 198,
+   "category_name": "Houses for cats",
+   "wallpaper_name": "cats198",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/7a/01/5b/7a015bf7f4187c5e1c54299af764d319.jpg"
+ },
+ {
+   "wallpaper_id": 92,
+   "category_name": "Maine Coon cats",
+   "wallpaper_name": "cats92",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/66/eb/da/66ebda82a212f894b470f6c4c439a778.jpg"
+ },
+ {
+   "wallpaper_id": 89,
+   "category_name": "Maine Coon cats",
+   "wallpaper_name": "cats89",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/09/29/3e/09293eaa7ea87b00efe57b1cdfa1afe9.jpg"
+ },
+ {
+   "wallpaper_id": 178,
+   "category_name": "Grace and Beauty",
+   "wallpaper_name": "cats178",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/f2/d8/16/f2d816adb636335e7ed64b92ab1c4a6e.jpg"
+ },
+ {
+   "wallpaper_id": 144,
+   "category_name": "Egyptian cats",
+   "wallpaper_name": "cats144",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/77/91/ff/7791ff97c6bbf04a51433fc49168264c.jpg"
+ },
+ {
+   "wallpaper_id": 134,
+   "category_name": "Sphinx cats",
+   "wallpaper_name": "cats134",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/0a/b7/f9/0ab7f97eb69838f49b3feecd6d500a6f.jpg"
+ },
+ {
+   "wallpaper_id": 156,
+   "category_name": "Siamese cats",
+   "wallpaper_name": "cats156",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/88/fb/1d/88fb1db66deb0f680e9059e847db8ac5.jpg"
+ },
+ {
+   "wallpaper_id": 66,
+   "category_name": "Turkish Van Cats",
+   "wallpaper_name": "cats66",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/4e/58/5c/4e585ce54920d887905829eed72e6cb0.jpg"
+ },
+ {
+   "wallpaper_id": 187,
+   "category_name": "Grace and Beauty",
+   "wallpaper_name": "cats187",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/8d/a1/e9/8da1e9005dadb359c9a922a2d3e68c7e.jpg"
+ },
+ {
+   "wallpaper_id": 37,
+   "category_name": "Persian Cats",
+   "wallpaper_name": "cats37",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/e1/e3/ba/e1e3ba98844210a8c553bf3c14ab7e7a.jpg"
+ },
+ {
+   "wallpaper_id": 36,
+   "category_name": "Persian Cats",
+   "wallpaper_name": "cats36",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/c6/16/7c/c6167c32171b6c311c2d6d59deb773f3.jpg"
+ },
+ {
+   "wallpaper_id": 191,
+   "category_name": "Grace and Beauty",
+   "wallpaper_name": "cats191",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/11/28/8a/11288a08faff6b6ea5cd037e613edb25.jpg"
+ },
+ {
+   "wallpaper_id": 149,
+   "category_name": "Egyptian cats",
+   "wallpaper_name": "cats149",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/42/13/44/421344b10664c95a37e7e967af318665.jpg"
+ },
+ {
+   "wallpaper_id": 78,
+   "category_name": "Maine Coon cats",
+   "wallpaper_name": "cats78",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/ba/d2/c9/bad2c9bc0586fd968a1b08cdf6b8a823.jpg"
+ },
+ {
+   "wallpaper_id": 145,
+   "category_name": "Egyptian cats",
+   "wallpaper_name": "cats145",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/ba/16/4e/ba164e3a88f200cc26212e9108b54416.jpg"
+ },
+ {
+   "wallpaper_id": 140,
+   "category_name": "Egyptian cats",
+   "wallpaper_name": "cats140",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/a5/f5/9f/a5f59f494e12980212674e77e76b4a36.jpg"
+ },
+ {
+   "wallpaper_id": 99,
+   "category_name": "Bengal Cats",
+   "wallpaper_name": "cats99",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/5e/71/fb/5e71fb8f609884c9b3ff3f1fddcf216a.jpg"
+ },
+ {
+   "wallpaper_id": 211,
+   "category_name": "Houses for cats",
+   "wallpaper_name": "cats211",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/8b/92/1f/8b921f5a61d7a348a99822747e3f58ad.jpg"
+ },
+ {
+   "wallpaper_id": 81,
+   "category_name": "Maine Coon cats",
+   "wallpaper_name": "cats81",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/ce/07/68/ce076861e6c08af0b32df2035639c4f0.jpg"
+ },
+ {
+   "wallpaper_id": 154,
+   "category_name": "Egyptian cats",
+   "wallpaper_name": "cats154",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/97/db/40/97db40b4f535913a893b2fac64f1ac9b.jpg"
+ },
+ {
+   "wallpaper_id": 79,
+   "category_name": "Maine Coon cats",
+   "wallpaper_name": "cats79",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/12/d5/6b/12d56b23ac9e68808cf7b35102cf6ddd.jpg"
+ },
+ {
+   "wallpaper_id": 146,
+   "category_name": "Egyptian cats",
+   "wallpaper_name": "cats146",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/6b/f6/b6/6bf6b6dfc9cd248afa1414f5a478feda.jpg"
+ },
+ {
+   "wallpaper_id": 38,
+   "category_name": "Persian Cats",
+   "wallpaper_name": "cats38",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/95/f8/00/95f800902103510955aaea83898c0d5f.jpg"
+ },
+ {
+   "wallpaper_id": 59,
+   "category_name": "British Cats",
+   "wallpaper_name": "cats59",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/f6/75/4c/f6754c634f8b8396c9921f22e5ede76d.jpg"
+ },
+ {
+   "wallpaper_id": 194,
+   "category_name": "Grace and Beauty",
+   "wallpaper_name": "cats194",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/cc/ce/e6/cccee68581637eaf47cdf53707c3a825.jpg"
+ },
+ {
+   "wallpaper_id": 138,
+   "category_name": "Egyptian cats",
+   "wallpaper_name": "cats138",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/8c/b4/21/8cb421a4b6496f13e188b11880d7a791.jpg"
+ },
+ {
+   "wallpaper_id": 101,
+   "category_name": "Bengal Cats",
+   "wallpaper_name": "cats101",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/e2/7d/00/e27d0083f8b179347d927e2bb488fbf8.jpg"
+ },
+ {
+   "wallpaper_id": 112,
+   "category_name": "Bengal Cats",
+   "wallpaper_name": "cats112",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/7e/37/b9/7e37b9cb7f0aff5673f382cf6eea7b5d.jpg"
+ },
+ {
+   "wallpaper_id": 132,
+   "category_name": "Sphinx cats",
+   "wallpaper_name": "cats132",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/a4/63/8b/a4638b206bb5ae1320676d40d1139cc9.jpg"
+ },
+ {
+   "wallpaper_id": 56,
+   "category_name": "British Cats",
+   "wallpaper_name": "cats56",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/26/c4/44/26c4446dc59ce7492095a5a777ce7044.jpg"
+ },
+ {
+   "wallpaper_id": 213,
+   "category_name": "Houses for cats",
+   "wallpaper_name": "cats213",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/6f/b1/c7/6fb1c7275b35f9df0bca2b995ee02035.jpg"
+ },
+ {
+   "wallpaper_id": 212,
+   "category_name": "Houses for cats",
+   "wallpaper_name": "cats212",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/f9/83/b2/f983b22f567fc7bd976db13fc171b956.jpg"
+ },
+ {
+   "wallpaper_id": 73,
+   "category_name": "Turkish Van Cats",
+   "wallpaper_name": "cats73",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/3d/0d/63/3d0d632efc0784669ad1d25303b9d207.jpg"
+ },
+ {
+   "wallpaper_id": 71,
+   "category_name": "Turkish Van Cats",
+   "wallpaper_name": "cats71",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/b6/05/2c/b6052c531744dcef52014ab6002a99d2.jpg"
+ },
+ {
+   "wallpaper_id": 82,
+   "category_name": "Maine Coon cats",
+   "wallpaper_name": "cats82",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/82/93/01/829301ccffdc7422294d85c135ec0933.jpg"
+ },
+ {
+   "wallpaper_id": 98,
+   "category_name": "Bengal Cats",
+   "wallpaper_name": "cats98",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/a2/c8/cb/a2c8cb4b5d0085cf8264666c4d18d859.jpg"
+ },
+ {
+   "wallpaper_id": 61,
+   "category_name": "British Cats",
+   "wallpaper_name": "cats61",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/f7/a3/41/f7a3417fe00593fd26b447f35848e41d.jpg"
+ },
+ {
+   "wallpaper_id": 41,
+   "category_name": "Persian Cats",
+   "wallpaper_name": "cats41",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/23/2f/e9/232fe9d9d8712518779f68728f0b5e8c.jpg"
+ },
+ {
+   "wallpaper_id": 86,
+   "category_name": "Maine Coon cats",
+   "wallpaper_name": "cats86",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/ec/00/2d/ec002dcd9359af8976a23026f0c62312.jpg"
+ },
+ {
+   "wallpaper_id": 106,
+   "category_name": "Bengal Cats",
+   "wallpaper_name": "cats106",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/60/0a/f7/600af7ceeabb6d552f07483432898d19.jpg"
+ },
+ {
+   "wallpaper_id": 168,
+   "category_name": "Siamese cats",
+   "wallpaper_name": "cats168",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/4f/5f/25/4f5f25e0030e68c791b8ae029e2c2cff.jpg"
+ },
+ {
+   "wallpaper_id": 162,
+   "category_name": "Siamese cats",
+   "wallpaper_name": "cats162",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/fb/03/7f/fb037f098d71cd32dfd33926e4a2d16a.jpg"
+ },
+ {
+   "wallpaper_id": 131,
+   "category_name": "Sphinx cats",
+   "wallpaper_name": "cats131",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/06/54/6c/06546cf19fc912b379b0ed4b55884e39.jpg"
+ },
+ {
+   "wallpaper_id": 34,
+   "category_name": "Persian Cats",
+   "wallpaper_name": "cats34",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/51/d0/c9/51d0c99b88ca74c001180f59c72d221a.jpg"
+ },
+ {
+   "wallpaper_id": 42,
+   "category_name": "Persian Cats",
+   "wallpaper_name": "cats42",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/5e/97/39/5e973981771f11f60d8e82f661087e1f.jpg"
+ },
+ {
+   "wallpaper_id": 32,
+   "category_name": "Persian Cats",
+   "wallpaper_name": "cats32",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/19/98/2d/19982d1b3d9b1f3d742b659b2c0160e0.jpg"
+ },
+ {
+   "wallpaper_id": 40,
+   "category_name": "Persian Cats",
+   "wallpaper_name": "cats40",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/29/c3/d7/29c3d7eb287a2dc701873458093dfc4c.jpg"
+ },
+ {
+   "wallpaper_id": 126,
+   "category_name": "Sphinx cats",
+   "wallpaper_name": "cats126",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/5c/82/e4/5c82e452cdfd5e409da10cbdcf62d4e1.jpg"
+ },
+ {
+   "wallpaper_id": 69,
+   "category_name": "Turkish Van Cats",
+   "wallpaper_name": "cats69",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/df/27/35/df2735ad733b41f5ee7a132c20d79363.jpg"
+ },
+ {
+   "wallpaper_id": 52,
+   "category_name": "British Cats",
+   "wallpaper_name": "cats52",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/89/5b/33/895b33899446f65c1b730ccd4a25f369.jpg"
+ },
+ {
+   "wallpaper_id": 72,
+   "category_name": "Turkish Van Cats",
+   "wallpaper_name": "cats72",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/82/28/82/8228821fc384b5140670d348512e8ebf.jpg"
+ },
+ {
+   "wallpaper_id": 63,
+   "category_name": "British Cats",
+   "wallpaper_name": "cats63",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/6c/dc/52/6cdc5211abb227a5fb2d1fcf348ae93e.jpg"
+ },
+ {
+   "wallpaper_id": 216,
+   "category_name": "Houses for cats",
+   "wallpaper_name": "cats216",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/5b/85/5e/5b855e83a7e8a88d5b7fe72da667f562.jpg"
+ },
+ {
+   "wallpaper_id": 110,
+   "category_name": "Bengal Cats",
+   "wallpaper_name": "cats110",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/68/55/a9/6855a9a5a6f596a5b4e422fc50fef7e1.jpg"
+ },
+ {
+   "wallpaper_id": 67,
+   "category_name": "Turkish Van Cats",
+   "wallpaper_name": "cats67",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/c9/00/7e/c9007e4ef87bcf5b6128c2d2e9626b4a.jpg"
+ },
+ {
+   "wallpaper_id": 214,
+   "category_name": "Houses for cats",
+   "wallpaper_name": "cats214",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/4f/d3/04/4fd304b9a82df295e587a533b9f9249b.jpg"
+ },
+ {
+   "wallpaper_id": 74,
+   "category_name": "Turkish Van Cats",
+   "wallpaper_name": "cats74",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/e3/7e/ed/e37eed3037205686d726ed1479c944bd.jpg"
+ },
+ {
+   "wallpaper_id": 113,
+   "category_name": "Bengal Cats",
+   "wallpaper_name": "cats113",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/23/5e/c0/235ec072e688a461801c37b4c0d1be12.jpg"
+ },
+ {
+   "wallpaper_id": 176,
+   "category_name": "Grace and Beauty",
+   "wallpaper_name": "cats176",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/62/92/45/6292452bdb066dc3630b7d5ecd3a8b8e.jpg"
+ },
+ {
+   "wallpaper_id": 130,
+   "category_name": "Sphinx cats",
+   "wallpaper_name": "cats130",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/14/4f/5a/144f5a200d6d2b218cee32c5fae7eded.jpg"
+ },
+ {
+   "wallpaper_id": 174,
+   "category_name": "Siamese cats",
+   "wallpaper_name": "cats174",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/98/5a/fa/985afa5fd28fed8027edd11d06c391f5.jpg"
+ },
+ {
+   "wallpaper_id": 109,
+   "category_name": "Bengal Cats",
+   "wallpaper_name": "cats109",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/f1/8a/06/f18a06c78ecf044ce586f6fb6d7aa924.jpg"
+ },
+ {
+   "wallpaper_id": 60,
+   "category_name": "British Cats",
+   "wallpaper_name": "cats60",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/0f/21/0d/0f210d552b92c7204442138de5151b55.jpg"
+ },
+ {
+   "wallpaper_id": 207,
+   "category_name": "Houses for cats",
+   "wallpaper_name": "cats207",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/1e/98/e7/1e98e7c847240b0d37f25a2f1ac5682e.jpg"
+ },
+ {
+   "wallpaper_id": 84,
+   "category_name": "Maine Coon cats",
+   "wallpaper_name": "cats84",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/de/7e/8b/de7e8b1964a4bac9374c03328382c421.jpg"
+ },
+ {
+   "wallpaper_id": 95,
+   "category_name": "Bengal Cats",
+   "wallpaper_name": "cats95",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/1b/90/1f/1b901f43ab6c3f1c7d9cade927595490.jpg"
+ },
+ {
+   "wallpaper_id": 125,
+   "category_name": "Sphinx cats",
+   "wallpaper_name": "cats125",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/3f/1f/a6/3f1fa6efaa033ff6c53d4c5e1aa05206.jpg"
+ },
+ {
+   "wallpaper_id": 111,
+   "category_name": "Bengal Cats",
+   "wallpaper_name": "cats111",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/dd/3d/d1/dd3dd1364f2a30da8d949e8b7a72d9a3.jpg"
+ },
+ {
+   "wallpaper_id": 190,
+   "category_name": "Grace and Beauty",
+   "wallpaper_name": "cats190",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/2b/3e/e5/2b3ee594f5d7cd45e4896f88cadf5cb7.jpg"
+ },
+ {
+   "wallpaper_id": 135,
+   "category_name": "Sphinx cats",
+   "wallpaper_name": "cats135",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/1d/29/ae/1d29aecb3ebf03923efb940c57a02bca.jpg"
+ },
+ {
+   "wallpaper_id": 54,
+   "category_name": "British Cats",
+   "wallpaper_name": "cats54",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/55/30/63/5530633ed79ee9c846559bfca25034eb.jpg"
+ },
+ {
+   "wallpaper_id": 90,
+   "category_name": "Maine Coon cats",
+   "wallpaper_name": "cats90",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/49/35/87/4935875e5982405fa5703cc4855fa4ba.jpg"
+ },
+ {
+   "wallpaper_id": 210,
+   "category_name": "Houses for cats",
+   "wallpaper_name": "cats210",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/27/da/ee/27daee7e17bc5aeae0b09ad1f0100571.jpg"
+ },
+ {
+   "wallpaper_id": 201,
+   "category_name": "Houses for cats",
+   "wallpaper_name": "cats201",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/ae/aa/2e/aeaa2e746e768dbaa0fd099d4c971754.jpg"
+ },
+ {
+   "wallpaper_id": 217,
+   "category_name": "Houses for cats",
+   "wallpaper_name": "cats217",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/5b/85/5e/5b855e83a7e8a88d5b7fe72da667f562.jpg"
+ },
+ {
+   "wallpaper_id": 133,
+   "category_name": "Sphinx cats",
+   "wallpaper_name": "cats133",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/60/7b/10/607b108b1ca813e720fac2e668ebd432.jpg"
+ },
+ {
+   "wallpaper_id": 91,
+   "category_name": "Maine Coon cats",
+   "wallpaper_name": "cats91",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/2f/e9/60/2fe9607a2149b08bbd2cfddde06a3fb7.jpg"
+ },
+ {
+   "wallpaper_id": 114,
+   "category_name": "Bengal Cats",
+   "wallpaper_name": "cats114",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/b5/5f/26/b55f26fa945b6da23003d063c0f10698.jpg"
+ },
+ {
+   "wallpaper_id": 185,
+   "category_name": "Grace and Beauty",
+   "wallpaper_name": "cats185",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/03/bf/45/03bf459b176bbbfe11966d7fe00e8fd6.jpg"
+ },
+ {
+   "wallpaper_id": 181,
+   "category_name": "Grace and Beauty",
+   "wallpaper_name": "cats181",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/22/12/0e/22120e4de8fefdb84a40f396a69421c4.jpg"
+ },
+ {
+   "wallpaper_id": 129,
+   "category_name": "Sphinx cats",
+   "wallpaper_name": "cats129",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/ce/7b/79/ce7b792ef4b5ad7016b82a981bf48273.jpg"
+ },
+ {
+   "wallpaper_id": 119,
+   "category_name": "Sphinx cats",
+   "wallpaper_name": "cats119",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/00/5a/98/005a981e7c352fdb83669e9fb6f1b999.jpg"
+ },
+ {
+   "wallpaper_id": 94,
+   "category_name": "Maine Coon cats",
+   "wallpaper_name": "cats94",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/5f/38/2d/5f382d8f00589ef5a354a0590c08867a.jpg"
+ },
+ {
+   "wallpaper_id": 48,
+   "category_name": "British Cats",
+   "wallpaper_name": "cats48",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://i.pinimg.com/564x/08/39/48/08394829fc1ea52e8085ba3135ad7cca.jpg"
  }
 
   ],
