@@ -38,13 +38,7 @@
 
   ],
 
-  "Categories": [
-    {
-      "id": 1,
-      "name_category": "trend 2024",
-      "image": "https://i.pinimg.com/564x/58/38/49/5838499aedbf4f82a318bb10d63c9a54.jpg"
-
-    }
+  "Categories": 
  [
  {
    "id": 1,
