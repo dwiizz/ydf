@@ -3,7 +3,7 @@
     {
       "status": true,
       "featured_categories": "Persian Cats, British Cats, Turkish Van Cats, Maine Coon cats, Bengal Cats, Sphinx cats, Egyptian cats, Siamese cats, Grace and Beauty, Houses for cats",
-      "show_wallpaper_name": false,
+      "show_wallpaper_name": true,
       "show_wallpaper_category": false,
       "show_favorite_button_in_wallpaper_list": true,
       "enable_rtl_mode": false,
