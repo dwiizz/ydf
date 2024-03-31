@@ -75,56 +75,40 @@
   "categories": [
  {
    "category_id": 1,
-   "category_name": "Persian Cats",
-   "category_image": "https://i.pinimg.com/564x/e1/e7/d2/e1e7d2fb22ed2fd16c8c1b852c6d62e8.jpg"
+   "category_name": "Girly Cats",
+   "category_image": "https://i.pinimg.com/564x/00/3b/49/003b498058638fda26bb35acfcb278bd.jpg"
  },
  {
    "category_id": 2,
-   "category_name": "British Cats",
-   "category_image": "https://i.pinimg.com/564x/f7/a3/41/f7a3417fe00593fd26b447f35848e41d.jpg"
+   "category_name": "Cat Doll",
+   "category_image": "https://i.pinimg.com/564x/69/07/df/6907dfd0c719e3e4d9960497e1e03b1a.jpg"
  },
  {
    "category_id": 3,
-   "category_name": "Turkish Van Cats",
-   "category_image": "https://i.pinimg.com/564x/a7/8f/8d/a78f8d45dcefcea019a679a7b13b87b0.jpg"
+   "category_name": "Couple",
+   "category_image": "https://i.pinimg.com/564x/e1/cf/a9/e1cfa9866c2b40f6a451e767c17ff067.jpg"
  },
  {
    "category_id": 4,
-   "category_name": "Maine Coon cats",
-   "category_image": "https://i.pinimg.com/564x/5f/38/2d/5f382d8f00589ef5a354a0590c08867a.jpg"
+   "category_name": "Cute",
+   "category_image": "https://i.pinimg.com/564x/92/f0/35/92f035960e94aeae7a66da5162e2497b.jpg"
  },
  {
    "category_id": 5,
-   "category_name": "Bengal Cats",
-   "category_image": "https://i.pinimg.com/564x/17/93/c2/1793c2c29fcb91aed4a96d952e74d1da.jpg"
+   "category_name": "Cats Expression",
+   "category_image": "https://i.pinimg.com/564x/d8/1b/d6/d81bd627011dfb52ad302845f630f7b5.jpg"
  },
  {
    "category_id": 6,
-   "category_name": "Sphinx cats",
-   "category_image": "https://i.pinimg.com/564x/51/42/e0/5142e0b49644e42d45c375e938e7fd57.jpg"
+   "category_name": "Work Day",
+   "category_image": "https://i.pinimg.com/564x/95/60/69/956069b89a7c0fe040b69edc3b910354.jpg"
  },
  {
    "category_id": 7,
-   "category_name": "Egyptian cats",
-   "category_image": "https://i.pinimg.com/564x/b4/e5/58/b4e558fce92ecba23026f39c936f84b6.jpg"
- },
- {
-   "category_id": 8,
-   "category_name": "Siamese cats",
-   "category_image": "https://i.pinimg.com/564x/fb/03/7f/fb037f098d71cd32dfd33926e4a2d16a.jpg"
- },
- {
-   "category_id": 9,
-   "category_name": "Grace and Beauty",
-   "category_image": "https://i.pinimg.com/564x/62/92/45/6292452bdb066dc3630b7d5ecd3a8b8e.jpg"
- },
- {
-   "category_id": 10,
-   "category_name": "Houses for cats",
-   "category_image": "https://i.pinimg.com/564x/5b/85/5e/5b855e83a7e8a88d5b7fe72da667f562.jpg"
+   "category_name": "Cool Cats",
+   "category_image": "https://i.pinimg.com/564x/83/4d/66/834d668cda9342f31e23ed3d90c9782e.jpg"
  }
-
-  ],
+],
   "wallpapers": [
  {
    "wallpaper_id": 1,
