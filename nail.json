@@ -29,14 +29,31 @@
   ],
    "More":
   [
-    {
-      "id":1,
-      "title":"App 1",
-      "image":"file:///android_asset/more/more1.jpg",
-      "link":""
-    }
-
-  ],
+ {
+   "id": 1,
+   "title": "Photo to Cartoon",
+   "image": "https://play-lh.googleusercontent.com/IQz3Z6HVZyFphn115GLFsaZGFl7x-10pCtvU8YOkus85OrWEqNYy021fGUNbgI9zMSw=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.cartoon.bingai"
+ },
+ {
+   "id": 2,
+   "title": "Love Wishes",
+   "image": "https://play-lh.googleusercontent.com/7TEV-CmXpC7ApmzGKGg7Ck8VkSZCjD4JpBfY4rfYc9_lGDR6wFeE7NsaXSAQAd1fSWQy=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.ydf.goodmorning"
+ },
+ {
+   "id": 3,
+   "title": "AI Cute Cats",
+   "image": "https://play-lh.googleusercontent.com/sDsaffw3PO3V3XRVxODV8Xs3wK0Leh7zbspTlD9nxBguSguh-Bl0M1e6NuPbmXayCOI=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.ydf.pinkycats"
+ },
+ {
+   "id": 4,
+   "title": "Sweet Persian Cat",
+   "image": "https://play-lh.googleusercontent.com/8cXc6aJuKJJNYK_riIXmVouorAthCoJNUH7s0pC64YJK5R6N7bbGUq92cKIsMqsLU9jT=w240-h480",
+   "link": "https://play.google.com/store/apps/details?id=com.ydf.persiancats"
+ }
+],
 
   "Categories": 
  [
