@@ -200,7 +200,7 @@
       "show_banner_ad": true,
       "show_interstitial_ad": true,
 	  "show_native_ad_on_drawer_menu": false,
-	  "show_native_ad_on_exit_dialog": true,
+	  "show_native_ad_on_exit_dialog": false,
       "show_open_ad_on_app_start": true,
       "show_open_ad_on_app_resume": false
     }
