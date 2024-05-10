@@ -1,0 +1,217 @@
+{
+  "apps": [
+    {
+      "status": true,
+      "redirect_url": "",
+      "privacy_policy_url": "https://ydfstudio.blogspot.com/2019/10/samsat-online-privacy-policy.html",
+      "user_agent": "",
+      "navigation_drawer": true,
+      "navigation_icon_solid_color": false,
+      "geolocation": false,
+      "webview_cache": true,
+      "open_link_in_external_browser": false,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_vpn_access": false,
+      "enable_dark_mode_as_default_theme": false
+    }
+  ],
+  "menus": [
+    {
+      "name": "Home",
+      "type": "url",
+      "icon": "https://play-lh.googleusercontent.com/8fn6CkLA1VT7N_dszIVhNAzEVPeDqfpakyDgqKsQr9H2Em99s5clCPQyce5e-nA5bosO=w240-h480",
+      "url": "file:///android_asset/2023/index1.html",
+      "url_dark": "file:///android_asset/2023/index1.html",
+      "toolbar": true
+    },
+    {
+      "name": "Cek Pajak",
+      "type": "url",
+      "icon": "https://idalamat.com/images/addresses/6218641-samsat-garut-jawa-barat.jpg",
+      "url": "file:///android_asset/2023/pajak.html",
+      "url_dark": "file:///android_asset/2023/pajak.html",
+      "toolbar": true
+    },
+	 
+	  {
+      "name": "Kode Bayar E-samsat",
+      "type": "url",
+      "icon": "https://bapendasulsel.web.id/v1/wp-content/uploads/2021/11/esamsat.png",
+      "url": "file:///android_asset/2023/esamsat.html",
+      "url_dark": "file:///android_asset/2023/esamsat.html",
+      "toolbar": true
+    },
+	   {
+      "name": "Cek BPKB dan Registrasi Kendaraan",
+      "type": "url",
+      "icon": "https://tabessby.jatim.polri.go.id/images/service/c94f038f1ddef8d9191d77b3935cbfe4.png",
+      "url": "file:///android_asset/2023/menuBpkb.html",
+      "url_dark": "file:///android_asset/2023/menuBpkb.html",
+      "toolbar": true
+    },
+	  {
+      "name": "Cek Pajak Sulawesi Utara",
+      "type": "url",
+      "icon": "https://bapenda.sulutprov.go.id/imgwebx/parallax-slider/images/head2.png",
+      "url": "https://bapenda.sulutprov.go.id/index.php?page=cekpajak",
+      "url_dark": "https://bapenda.sulutprov.go.id/index.php?page=cekpajak",
+      "toolbar": true
+    },
+	   {
+      "name": "Cek Pajak DI Yogyakarta",
+      "type": "url",
+      "icon": "https://samsatsleman.jogjaprov.go.id/images/headers/Untitled_design__5_-removebg-preview.png",
+      "url": "https://samsatsleman.jogjaprov.go.id/cek/pajak",
+      "url_dark": "https://samsatsleman.jogjaprov.go.id/cek/pajak",
+      "toolbar": true
+    },
+	   {
+      "name": "Cek Pajak Banten",
+      "type": "url",
+      "icon": "https://infopkb.bantenprov.go.id/iconpembinasamsat.png",
+      "url": "https://infopkb.bantenprov.go.id/",
+      "url_dark": "https://infopkb.bantenprov.go.id/",
+      "toolbar": true
+    },
+	  {
+      "name": "Cek Pajak Sumatera Utara",
+      "type": "url",
+      "icon": "https://bapenda.sumutprov.go.id/images/logo/1673795827logo%203x2.png",
+      "url": "https://bapenda.sumutprov.go.id/website/pajak#/pkb/info-pkb",
+      "url_dark": "https://bapenda.sumutprov.go.id/website/pajak#/pkb/info-pkb",
+      "toolbar": true
+    },
+	   {
+      "name": "Cek Pajak Riau",
+      "type": "url",
+      "icon": "https://bapenda.riau.go.id/assets/img/logo_atas_besar.png",
+      "url": "https://bapenda.riau.go.id/dashboard/layanan/infopajak",
+      "url_dark": "https://bapenda.riau.go.id/dashboard/layanan/infopajak",
+      "toolbar": true
+    },
+	   {
+      "name": "Cek Pajak Bengkulu",
+      "type": "url",
+      "icon": "https://pusako.bengkuluprov.go.id/public/assets/img/logo/pusako-line.png",
+      "url": "https://pusako.bengkuluprov.go.id/infopajak",
+      "url_dark": "https://pusako.bengkuluprov.go.id/infopajak",
+      "toolbar": true
+    },
+	  {
+      "name": "Cek Pajak Kalimantan Barat",
+      "type": "url",
+      "icon": "http://simpator.kaltimprov.go.id/images/logo1.png",
+      "url": "https://uptppdptk1-bapenda.kalbarprov.go.id/beranda",
+      "url_dark": "https://uptppdptk1-bapenda.kalbarprov.go.id/beranda",
+      "toolbar": true
+    },
+	  
+	   {
+      "name": "Cek Pajak Kalimantan Timur",
+      "type": "url",
+      "icon": "http://simpator.kaltimprov.go.id/images/logo1.png",
+      "url": "http://simpator.kaltimprov.go.id/cari.php",
+      "url_dark": "http://simpator.kaltimprov.go.id/cari.php",
+      "toolbar": true
+    },
+	   {
+      "name": "Cek Pajak Maluku Utara",
+      "type": "url",
+      "icon": "http://simpator.kaltimprov.go.id/images/logo1.png",
+      "url": "https://esamsat.malukuprov.go.id/kiosk/kiosk.aspx",
+      "url_dark": "https://esamsat.malukuprov.go.id/kiosk/kiosk.aspx",
+      "toolbar": true
+    },
+	   {
+      "name": "Cek Pajak NTT",
+      "type": "url",
+      "icon": "https://bpad.nttprov.go.id/assets/user/img/3logo.png",
+      "url": "https://bpad.nttprov.go.id/Lap/infopajak",
+      "url_dark": "https://bpad.nttprov.go.id/Lap/infopajak",
+      "toolbar": true
+    },
+	   {
+      "name": "Cek Pajak Papua",
+      "type": "url",
+      "icon": "http://180.250.219.60:81/cekpajak/images/headerkiri.jpg",
+      "url": "http://180.250.219.60:81/cekpajak/",
+      "url_dark": "http://180.250.219.60:81/cekpajak/",
+      "toolbar": true
+    },
+	   {
+      "name": "Dengarkan Lagu",
+      "type": "url",
+      "icon": "https://cdn.pixabay.com/photo/2017/05/17/15/20/kids-2321161_960_720.png",
+      "url": "file:///android_asset/2023/playlist.html",
+      "url_dark": "file:///android_asset/2023/playlist.html",
+      "toolbar": true
+    },
+    {
+      "name": "Bertanya Melalui WA",
+      "type": "url",
+      "icon": "https://i.pinimg.com/550x/93/b2/65/93b265c795140247db600ac92e58746a.jpg",
+      "url": "file:///android_asset/2023/web/pertanyaan.html",
+      "url_dark": "file:///android_asset/2023/web/pertanyaan.html",
+      "toolbar": true
+    },  
+    {
+      "name": "Privacy Policy",
+      "type": "assets",
+      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy.png",
+      "url": "privacy_policy.html",
+      "url_dark": "privacy_policy_dark.html",
+      "toolbar": true
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": true,
+      "main_ad": "admob",
+      "backup_ad": "alien_ads",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/9257395921",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "alien_ads_banner_unit_id": "testing",
+      "alien_ads_interstitial_unit_id": "testing",
+      "alien_ads_native_unit_id": "testing",
+      "fan_banner_unit_id": "YOUR_PLACEMENT_ID",
+      "fan_interstitial_unit_id": "YOUR_PLACEMENT_ID",
+      "fan_native_unit_id": "YOUR_PLACEMENT_ID",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 3,
+      "native_ad_style": "medium",
+      "show_banner_ad": true,
+      "show_interstitial_ad": true,
+      "show_native_ad_on_drawer_menu": true,
+      "show_native_ad_on_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "Guide",
+      "image": "",
+      "url": ""
+    }
+  ]
+}
