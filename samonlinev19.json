@@ -21,16 +21,16 @@
       "name": "Home",
       "type": "url",
       "icon": "https://play-lh.googleusercontent.com/8fn6CkLA1VT7N_dszIVhNAzEVPeDqfpakyDgqKsQr9H2Em99s5clCPQyce5e-nA5bosO=w240-h480",
-      "url": "file:///android_asset/2023/index1.html",
-      "url_dark": "file:///android_asset/2023/index1.html",
+      "url": "file:///android_asset/2024/index1.html",
+      "url_dark": "file:///android_asset/2024/index1.html",
       "toolbar": true
     },
     {
       "name": "Cek Pajak",
       "type": "url",
       "icon": "https://idalamat.com/images/addresses/6218641-samsat-garut-jawa-barat.jpg",
-      "url": "file:///android_asset/2023/pajak.html",
-      "url_dark": "file:///android_asset/2023/pajak.html",
+      "url": "file:///android_asset/2024/pajak.html",
+      "url_dark": "file:///android_asset/2024/pajak.html",
       "toolbar": true
     },
 	 
@@ -38,16 +38,16 @@
       "name": "Kode Bayar E-samsat",
       "type": "url",
       "icon": "https://bapendasulsel.web.id/v1/wp-content/uploads/2021/11/esamsat.png",
-      "url": "file:///android_asset/2023/esamsat.html",
-      "url_dark": "file:///android_asset/2023/esamsat.html",
+      "url": "file:///android_asset/2024/esamsat.html",
+      "url_dark": "file:///android_asset/2024/esamsat.html",
       "toolbar": true
     },
 	   {
       "name": "Cek BPKB dan Registrasi Kendaraan",
       "type": "url",
       "icon": "https://tabessby.jatim.polri.go.id/images/service/c94f038f1ddef8d9191d77b3935cbfe4.png",
-      "url": "file:///android_asset/2023/menuBpkb.html",
-      "url_dark": "file:///android_asset/2023/menuBpkb.html",
+      "url": "file:///android_asset/2024/menuBpkb.html",
+      "url_dark": "file:///android_asset/2024/menuBpkb.html",
       "toolbar": true
     },
 	  {
