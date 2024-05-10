@@ -20,7 +20,7 @@
     {
       "name": "Home",
       "type": "url",
-      "icon": "https://play-lh.googleusercontent.com/8fn6CkLA1VT7N_dszIVhNAzEVPeDqfpakyDgqKsQr9H2Em99s5clCPQyce5e-nA5bosO=w240-h480",
+      "icon": "",
       "url": "file:///android_asset/2024/index1.html",
       "url_dark": "file:///android_asset/2024/index1.html",
       "toolbar": true
@@ -50,14 +50,6 @@
       "url_dark": "file:///android_asset/2024/menuBpkb.html",
       "toolbar": true
     },
-	  {
-      "name": "Cek Pajak Sulawesi Utara",
-      "type": "url",
-      "icon": "https://bapenda.sulutprov.go.id/imgwebx/parallax-slider/images/head2.png",
-      "url": "https://bapenda.sulutprov.go.id/index.php?page=cekpajak",
-      "url_dark": "https://bapenda.sulutprov.go.id/index.php?page=cekpajak",
-      "toolbar": true
-    },
 	   {
       "name": "Cek Pajak DI Yogyakarta",
       "type": "url",
@@ -66,55 +58,7 @@
       "url_dark": "https://samsatsleman.jogjaprov.go.id/cek/pajak",
       "toolbar": true
     },
-	   {
-      "name": "Cek Pajak Banten",
-      "type": "url",
-      "icon": "https://infopkb.bantenprov.go.id/iconpembinasamsat.png",
-      "url": "https://infopkb.bantenprov.go.id/",
-      "url_dark": "https://infopkb.bantenprov.go.id/",
-      "toolbar": true
-    },
-	  {
-      "name": "Cek Pajak Sumatera Utara",
-      "type": "url",
-      "icon": "https://bapenda.sumutprov.go.id/images/logo/1673795827logo%203x2.png",
-      "url": "https://bapenda.sumutprov.go.id/website/pajak#/pkb/info-pkb",
-      "url_dark": "https://bapenda.sumutprov.go.id/website/pajak#/pkb/info-pkb",
-      "toolbar": true
-    },
-	   {
-      "name": "Cek Pajak Riau",
-      "type": "url",
-      "icon": "https://bapenda.riau.go.id/assets/img/logo_atas_besar.png",
-      "url": "https://bapenda.riau.go.id/dashboard/layanan/infopajak",
-      "url_dark": "https://bapenda.riau.go.id/dashboard/layanan/infopajak",
-      "toolbar": true
-    },
-	   {
-      "name": "Cek Pajak Bengkulu",
-      "type": "url",
-      "icon": "https://pusako.bengkuluprov.go.id/public/assets/img/logo/pusako-line.png",
-      "url": "https://pusako.bengkuluprov.go.id/infopajak",
-      "url_dark": "https://pusako.bengkuluprov.go.id/infopajak",
-      "toolbar": true
-    },
-	  {
-      "name": "Cek Pajak Kalimantan Barat",
-      "type": "url",
-      "icon": "http://simpator.kaltimprov.go.id/images/logo1.png",
-      "url": "https://uptppdptk1-bapenda.kalbarprov.go.id/beranda",
-      "url_dark": "https://uptppdptk1-bapenda.kalbarprov.go.id/beranda",
-      "toolbar": true
-    },
 	  
-	   {
-      "name": "Cek Pajak Kalimantan Timur",
-      "type": "url",
-      "icon": "http://simpator.kaltimprov.go.id/images/logo1.png",
-      "url": "http://simpator.kaltimprov.go.id/cari.php",
-      "url_dark": "http://simpator.kaltimprov.go.id/cari.php",
-      "toolbar": true
-    },
 	   {
       "name": "Cek Pajak Maluku Utara",
       "type": "url",
