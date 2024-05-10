@@ -151,7 +151,7 @@
       "name": "Bertanya Melalui WA",
       "type": "url",
       "icon": "https://i.pinimg.com/550x/93/b2/65/93b265c795140247db600ac92e58746a.jpg",
-      "url": "file:///android_asset/2023/web/pertanyaan.html",
+      "url": "file:///android_asset/2024/web/pertanyaan.html",
       "url_dark": "file:///android_asset/2023/web/pertanyaan.html",
       "toolbar": true
     },  
@@ -166,7 +166,7 @@
   ],
   "ads": [
     {
-      "ad_status": true,
+      "ad_status": false,
       "main_ad": "admob",
       "backup_ad": "alien_ads",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
