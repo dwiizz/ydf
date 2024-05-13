@@ -93,7 +93,7 @@
     },  
     {
       "name": "Privacy Policy",
-      "type": "assets",
+      "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy.png",
       "url": "https://ydfstudio.blogspot.com/2019/10/samsat-online-privacy-policy.html",
       "url_dark": "https://ydfstudio.blogspot.com/2019/10/samsat-online-privacy-policy.html",
