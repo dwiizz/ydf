@@ -5,7 +5,7 @@
       "redirect_url": "",
       "privacy_policy_url": "https://ydfstudio.blogspot.com/2019/10/samsat-online-privacy-policy.html",
       "user_agent": "",
-      "navigation_drawer": false,
+      "navigation_drawer": true,
       "navigation_icon_solid_color": false,
       "geolocation": false,
       "webview_cache": true,
